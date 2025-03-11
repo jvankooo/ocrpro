@@ -7,8 +7,8 @@ import pandas as pd
 from PIL import Image
 
 # ✅ Replace with your actual API key
-API_KEY = "282bdede-575d-4dbe-871e-a0c79d9557cf"
-LLAMA_API_URL = "https://api.llama.ai/v1/vision"
+API_KEY = "b1b1e69d-dfb9-439f-9991-bee468c10533"
+LLAMA_API_URL = "https://api.llama-api.com"
 
 # ✅ Define Input and Output Paths
 PDF_PATH = r"E:\Btech_AI\Intern\ocrpro\Phable CAM Final.pdf"
@@ -17,7 +17,8 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # ✅ Ensure API Key is Sent Correctly
 HEADERS = {
-    "Authorization": f"Bearer {API_KEY}"
+    "Authorization": f"Bearer {API_KEY}",
+    "Content-Type": "application/json"
 }
 
 # ✅ Convert PDF Pages to Images
