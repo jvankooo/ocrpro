@@ -7,7 +7,7 @@ import pandas as pd
 from PIL import Image
 
 # ✅ Replace with your actual API key
-API_KEY = "b1b1e69d-dfb9-439f-9991-bee468c10533"
+API_KEY = ".."
 LLAMA_API_URL = "https://api.llama-api.com"
 
 # ✅ Define Input and Output Paths

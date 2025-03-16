@@ -7,7 +7,7 @@ import base64
 import pandas as pd
 
 # ✅ Configuration
-API_KEY = "a2Q0NDNsNWd1am9neXRia2RsZnhmOnpsNG1vMnprNTJualBjRWRqbFV5a1EyZ1pBbFFyYTRj"
+API_KEY = ".."
 LANDING_AI_URL = "https://api.va.landing.ai/v1/tools/agentic-document-analysis"
 PDF_PATH = r"E:\Btech_AI\Intern\ocrpro\Phable CAM Final.pdf"
 OUTPUT_DIR = r"E:\Btech_AI\Intern\ocrpro\LLM Approach\results"
@@ -20,8 +20,7 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # ✅ Headers for API Call
 HEADERS = {
-    "Authorization": f"Bearer {API_KEY}",
-    "Content-Type": "application/json"
+  "Authorization": "Basic {{your_api_key}}",
 }
 
 def extract_data_with_retry(pdf_path, max_retries=5, retry_delay=10):
@@ -84,7 +83,7 @@ def save_extracted_data(data, output_json, output_excel, output_images):
 if __name__ == "__main__":
     print("📄 Preprocessing PDF...")
     text_preview = preprocess_pdf(PDF_PATH)
-    print(f"📝 Extracted preview:\n{text_preview[:500]}...\n")  # Show first 1000 chars
+    print(f"📝 Extracted preview:\n{text_preview[:1000]}...\n")  # Show first 1000 chars
     
     print("📡 Sending PDF to Landing AI API with retry handling...")
     extracted_data = extract_data_with_retry(PDF_PATH)
