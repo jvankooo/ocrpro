@@ -1,0 +1,5264 @@
+     
+                                             
+ 
+1 
+ 
+Proposal Summary                                                                                                                              December, 2021 
+Borrower Name:  Terrals Technologies Pvt. Ltd. 
+Sector: Chronic Disease Management and Healthcare Services Platform 
+Proposed Amount: Up to INR 45,00,00,000  
+Tranche 1: INR 10,00,00,000 
+Tranche 2: Up to 15% of the equity raise (Series B) with an overall cap of INR 35Cr 
+Tenor: 18 months from the date of disbursement of each tranche 
+Debt XIRR: 16.56%; Warrants: 7%; XIRR with warrant upside: 31.2%  
+Repayment Schedule:  
+Quarterly Amortization (5 instalments); Moratorium for three months i.e., first principal instalment at the end of 6 
+months. The coupons are to be serviced monthly on the last day of each month. 
+Filtering Criteria: 
+Criteria 
+Stride Filter 
+Pre-Equity 
+Post-Equity* 
+Equity Raised till Date 
+> INR 50Cr 
+INR 64Cr 
+INR 192 Cr 
+Debt/Equity Raised (incl. proposed 
+debt) 
+< 15% 
+15.9% 
+15.16%(1)(2) 
+Debt/Valuation (incl. proposed debt) 
+<5% 
+6.6% 
+NA(3) 
+Months of Runway (excl. proposed debt) 
+>9 
+>3(1) 
+>18 
+Revenue 
+ARR > INR 25Cr 
+INR 95 Cr 
+*Assumed only $17M Series B takes place. 
+Notes: 7KHFRPSDQ\LVUDLVLQJ6HULHV%RI0Q,15&UZLWKHTXLW\LQIXVLRQH[SHFWHGLQ'HF·6HFRQGFORVLQJRI
+this round is expected by the end of January 2022 & may go as high as $40 Mn cumulatively.   
+(2) The company is raising significant debt and equity to finance strategic acquisitions. 
+(3) The current Series B round will be a convertible round valued at 20% discount to series C (expected to close Q1 FY23) 
+Cash Margin: 7.5% of Investment Amount 
+Security:  
+¾ First charge and hypothecation on all existing and future fixed, current and intangible assets of the Borrower 
+for each tranche. 
+¾ 6 Undated Cheques & NACH Mandate. 
+Financial Covenants:  
+¾ 6 months average monthly cash burn to be maintained in Cash & Cash Equivalents 
+¾ Debt/Net Worth of 1x.  
+Other Conditions: 
+¾ Right to Invest - Subject to Board approval, Investor shall have the right (but not an obligation) to subscribe to 
+equity of the company up to INR 20 crore or 60% of Total Investment Amount invested by Lender, whichever 
+is lower, in any future round of equity investment on the same terms as other participating investors. The right 
+can be exercised within 36 months from the date of first disbursement. 
+¾ Brief monthly MIS in the format mutually agreed upon by both parties by the 25th day of the following month; 
+Detailed quarterly MIS by the 25th day of the following month. 
+¾ Audited financial statements within 180 days of end of financial year. 
+¾ Annual business plan (including quarterly budget containing an income statement, a statement of cash flow, no 
+later than 15 (fifteen) days of the end of each fiscal year for the following fiscal year;  
+ 
+
+
+     
+                                             
+ 
+2 
+ 
+¾ Company to share all notices, board minutes & other necessary board meeting material to Stride Ventures 
+within 7 days from such board meeting. 
+Partly Paid CCPS Valuation: 
+Investor shall be entitled to subscribe to partly paid-up shares to the extent of 7% of the Investment Amount, which 
+when exercised at any time during the Exercise Period (5 years from the Maturity date of the last tranche or end of the 
+fund life, whichever is later.), shall convert into equivalent equity shares of the Borrower at par to the per share price 
+of Series B i.e., 20% discount to Series C.  
+Promoters & Cap Table 
+ 
+Shareholding Pattern:  
+ 
+Shareholding Pattern of Terrals Technologies Pvt. Ltd (Pre-Series B): 
+Institution / Individual 
+Investor 
+Since 
+Fund Details 
+Shareholding 
+Founders/Promoters 
+ 
+ 
+Sumit Sinha 
+2018 
+ 
+19.84% 
+Mukesh Bansal 
+2018 
+ 
+14.38% 
+Institutions 
+ 
+ 
+ 
+Kalaari Capital 
+2021 
+Kalaari Capital Partners IV 
+9.98% 
+Omron 
+2021 
+Omron Ventures Co Ltd 
+6.78% 
+SOSV 
+2019 
+SOSV IV LLC 
+5.99% 
+Omphalos Ventures 
+2018 
+Omphalos Ventures India LLP 
+4.35% 
+Betatron 
+2020 
+Betatron III BVI Limited 
+3.31% 
+Fresco Capital 
+2020 
+Fresco Venture Fund III 
+2.33% 
+IPV 
+2020 
+IPV-Advisors 
+2.27% 
+Social Starts 
+2020 
+Social Starts A. LP 
+1.50% 
+LetsVenture 
+2020 
+LV Angel Fund 
+1.25% 
+Enterprise 
+ 
+ 
+ 
+Manipal Hospitals 
+2021 
+Manipal Health Enterprises Pvt Ltd 
+19.50% 
+ESOPs 
+ 
+ 
+5.42% 
+Others (1) 
+ 
+ 
+3.10% 
+Total 
+ 
+ 
+100.0% 
+Notes: (1) Other investors include Angels such as Nisarg Shah (Founder ² Instascore), with his investments in Homecapital, Autobrix, Crofarm, 
+HireSure.ai; Ashim Jolly, who has invested in Toch.ai, DCode Care, Stage, Pedagogy; Aditya Chamaria (ED, Bhumika Group) who has invested 
+in Toch.ai and Gather. 
+Background of the Founders: 
+Founders  
+Background Details 
+ 
+Sumit Sinha 
+ 
+Co-Founder & CEO 
+ 
+Professional Background (14+ years, 3+ years with Phable) 
+¾ Kristys Kitchen, Co-founder ¶- ¶7) 
+¾ Borderless Access Panels Pvt Ltd., Senior Director ·2-· 
+¾ Deloitte Consulting, Consultant ·1- ¶2) 
+¾ Evalueserve, Manager ·07- ·1) 
+¾ ICICI, Assistant Manager ·06- ·07) 
+ 
+Educational Background: 
+¾ B.Tech., Computer Science (Class of 2006) 
+Amount
+I
+Edie
+
+
+     
+                                             
+ 
+3 
+ 
+Mukesh Bansal 
+ 
+Co-Founder 
+Professional Background (15+ years, 3+ years with Phable) 
+¾ Borderless Access Panels Pvt Ltd., Director - Operations & 
+Research Services ·-· 
+¾ Kantar Operations, Manager ² Research Services ·- ·3) 
+ 
+Educational Background: 
+¾ M.Sc. (Hons) Mathematics, B.E. (Hons) Civil 
+BITS Pilani (Class of 2005) 
+ 
+ 
+Organisation Chart:  
+ 
+ 
+ 
+Key Management Personnel: 
+ 
+Key Personnel 
+Background Details 
+Venkatesh Walajabad   
+ 
+Engineering Manager  
+Professional Background (14+ years, 1+ years with Phable) 
+¾ Strategic Solutions Group, Independent Consultant ·-· 
+¾ LogN/SchoolMint, Director Of Engineering ·13- ·9) 
+¾ Apollo Group, Senior Software Engineer ·10- ·3) 
+¾ IG InfoTech, Senior Software Developer ·08- ·0) 
+¾ Apollo Group, IT Engineer II ·07- ·08) 
+¾ Brahma Consulting Services, Programmer Analyst ·-· 
+ 
+Educational Background: 
+¾ M.S. Electrical Engineering  
+Southern Illinois University, Carbondale (Class of 2004) 
+¾ B.E. Electrical & Electronics Engineering  
+Vellore Institute of Technology (Class of 2002) 
+Bhavesh Jardosh 
+ 
+Engineering Manager 
+Professional Background (20+ years, less than a year with Phable) 
+¾ Healthcare Startup(QJLQHHULQJ0DQDJHU· 
+¾ Cisco Systems, IT Manager ·06- ·9) 
+¾ Driving Advertising, Senior Software Engineer ·03- ·06) 
+¾ Silverion Inc., Senior Software Engineer ·02- ·03) 
+¾ BetaSphere, Software Engineer ·01- ·02) 
+¾ Hitek Consulting, &RQVXOWDQW·-· 
+¾ Tasaa Netcom, 6RIWZDUH(QJLQHHU·98-·00) 
+ 
+Educational Background: 
+¾ PGP Artificial Intelligence 
+The University of Texas at Austin - Red McCombs School of Business (Class of 
+2020) 
+Tam
+Locke weak in tone of relevant experience
+
+
+     
+                                             
+ 
+4 
+ 
+¾ PGD in Software Technology 
+National Center for Software Technology (Class of 1998) 
+¾ B.Sc. Statistics 
+University of Mumbai (Class of 1994) 
+ 
+Antariksh Pandey  
+ 
+Head of Product 
+Professional Background (9+ years, 1+ years with Phable) 
+¾ Sonus3URGXFW0DQDJHU·-¶ 
+¾ Infosys, Senior Systems Engineer ·10- ·4) 
+ 
+Educational Background: 
+¾ MBA  
+IIM Bangalore (Class of 2020) 
+¾ International Business  
+IE Business School (Class of 2019) 
+¾ B.E. ECE 
+Institute Of Technology And Management (Class of 2010) 
+ 
+Chayan Kapoor  
+ 
+Head of Sales 
+Professional Background (5+ years, 3+ years with Phable) 
+¾ Practo, Senior Territory Sales 0DQDJHU·-¶ 
+¾ RankHigher.in, Business Development Manager ·16- ·7) 
+¾ BYJUs%XVLQHVV'HYHORSPHQW$VVRFLDWH· 
+ 
+Educational Background: 
+¾ B.Tech. Computer Science 
+Manav Rachna International University, Faridabad (Class of 2016)  
+ 
+Abhijeet Sharma 
+ 
+Head of Finance 
+Professional Background (14+ years, less than a year with Phable) 
+¾ Humain Health, Senior Manager/ Head Business Finance ·9-¶20) 
+¾ Asia Healthcare Holdings, Head of Internal Audit ·17- ·9) 
+¾ Columbia Asia Hospitals, Senior Manager Finance ·3-¶) 
+¾ KPMG India0DQDJHU·-· 
+¾ E&Y, Assistant Manager ·-· 
+¾ Deloitte India, Assistant Manager ·-· 
+ 
+Educational Background: 
+¾ EGMP, Executive MBA 
+IIM Bangalore (Class of 2019)  
+¾ Chartered Accountant 
+ICAI (Class of 2006) 
+ 
+Mary Kumar 
+ 
+Head of HR 
+Professional Background (12+ years, 2+ years with Phable) 
+¾ Borderless Access, Manager ² HRBP ·5-¶9) 
+¾ Utopia Global, Senior HR ² Specialist ·11- ·5) 
+¾ Accenture, Senior Analyst ·08-¶) 
+ 
+Educational Background: 
+¾ MBA, HR Finance 
+Periyar University (Class of 2008)  
+ 
+ 
+Nikhil Gupta 
+Professional Background (3+ years, 1+ years with Phable) 
+¾ Asian Paints, Manager ² 6WUDWHJLF,QLWLDWLYHV·-¶ 
+¾ ICICI Bank, Manager ² Infrastructure Financing ·18) 
+¾ HARMAN International$VVRFLDWH6RIWZDUH(QJLQHHU·-¶ 
+
+
+     
+                                             
+ 
+5 
+ 
+ 
+Business Strategist 
+ 
+Educational Background: 
+¾ MBA 
+IIT Bombay - Shailesh J. Mehta School of Management (Class of 2018)  
+¾ B.Tech. Computer Science  
+Institute of Engineering and Technology (Class of 2015)  
+ 
+Dr. Suhas Patil 
+ 
+Manager ² Medical Strategy 
+Professional Background (8+ years, 1+ years with Phable) 
+¾ Sahyadri Hospitals(PHUJHQF\3K\VLFLDQ·-¶ 
+¾ Government of Maharashtra, Medical Officer ·15-¶) 
+¾ Aastha Hospital5HVLGHQW'RFWRU·-¶ 
+ 
+Educational Background: 
+¾ MBA - Executive 
+IIM Lucknow (Class of 2019)  
+¾ MBBS 
+Lokmanya Tilak Medical College, Sion Mumbai (Class of 2009)  
+ 
+ 
+ 
+ 
+Board Composition:  
+ 
+Terrals Technologies Pvt. Ltd. has appointed four directors: 
+ 
+x 
+Sumit Sinha, Co-Founder & CEO ² Phable 
+x 
+Mukesh Kumar Bansal, Co-Founder - Phable 
+x 
+Mitesh Daga, Managing Director ² TPG Global & Board Member - Manipal Health Enterprises Pvt. Ltd. 
+x 
+William Bao Bean, General Partner - SOSV 
+ 
+ 
+ 
+Employee split:  
+ 
+Department 
+# of Employees 
+Founders 
+2 
+Finance 
+6 
+Digital 
+14 
+Product 
+16 
+Management Office 
+21 
+Doctor Onboarding Operations 
+25 
+Technology 
+30 
+Revenue Operations 
+126 
+Grand Total 
+240 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+     
+                                             
+ 
+6 
+ 
+Equity Funding till date and Valuation movement:  
+ 
+ 
+Funding 
+Date 
+Round 
+Investment 
+Amount 
+(INR Cr) 
+Post Money 
+Valuation 
+(INR Cr) 
+Investors 
+Jan-21 
+Series A 
+50.5 
+150.0 
+Kalaari Capital, SOSV, Fresco, Manipal 
+Hospitals, Omron, Social Starts 
+Jan-20 
+Seed 
+10.3 
+45.0 
+SOSV, Betatron, Fresco, Lets Venture, 
+Social Starts, Inflection 
+Aug-19 
+Seed 
+1.9 
+19.0 
+SOSV 
+Jul-18 
+Seed 
+2.1 
+10.0 
+Omphalos Ventures LLP 
+TOTAL 
+ 
+64 
+ 
+ 
+Note:  The company is raising Series B of $17 Mn (INR 128 Cr) with LQIXVLRQH[SHFWHGLQ'HF·6HFRQGFORVLQJRIWKLVURXQGis expected by 
+the end of January 2022 & may go as high as $40 Mn cumulatively. The current Series B round will be a convertible round valued at 20% 
+discount to series C (expected to close Q1 FY23).  
+ 
+Key Investors:  
+ 
+Kalaari Capital:  
+Founded in 2006 by Vani Kola, Kalaari Capital is an Early-stage technology-focused venture capital firm that invests 
+in India and US.  The generally enter at Seed, Pre-Series A and Series A rounds to help companies grow and to empower 
+visionary entrepreneurs to build unique solutions.  
+They launched their first fund of $190 million backed by Silicon Valley venture capital firm New Enterprise Associates 
+(NEA). Kalaari has been in the market to raise its fourth fund for over a few years. In January 2019, the fund was 
+targeting $200 million (infusion made by Reliance). Kalaari had last raised a fund in 2012 ($160 million fund, Kalaari 
+Capital Partners II) and in 2015 when it mopped $290 million (Kalaari Capital Partners III and Kalaari Capital Partners 
+Opportunity Fund).  
+Notable exits are: Embibe, Zivame, Haptik, Urban Ladder (All 4 acquired by Reliance), Dream 11 (partial exit), Myntra, 
+Snapdeal, Via.com. 
+The company has invested in more than 100 companies till date with an average ticket size of $1-3 million. Some of its 
+notable investments are: Dream 11, SimpliLearn, Skit, Koo, MyGlamm, Elastic Run, Vogo, StanPlus, MilkBasket etc. 
+The company has recently launched $10 million CXXO fund to invest in startups that have women founders as key 
+decision-makers.  
+SNo. 
+Company Name 
+Founded 
+Year 
+City 
+Total Funding 
+(INR Crores) 
+Company 
+Stage 
+Latest Valuation  
+(INR Crores) 
+1 
+Dream 11 
+2008 
+Mumbai 
+5,888 
+Series F 
+37,500 
+2 
+Cult.Fit 
+2016 
+Bangalore 
+3,698 
+Series D 
+6,060 
+3 
+MedPlus 
+2006 
+Hyderabad 
+2,018 
+Series C 
+3,195 
+4 
+Elastic Run 
+2016 
+Pune 
+975 
+Series D 
+3,015 
+5 
+WinZo 
+2016 
+New Delhi 
+695 
+Series C 
+2,505 
+6 
+Koo App 
+2019 
+Bangalore 
+318 
+Series B 
+893 
+7 
+Healthpix 
+2014 
+Bangalore 
+176 
+Series B 
+254 
+8 
+Jumbotail 
+2015 
+Bangalore 
+433 
+Series B 
+855 
+9 
+Blue Stone 
+2011 
+Bangalore 
+557 
+Series D 
+780 
+10 
+StanPlus 
+2016 
+Hyderabad 
+16 
+Seed 
+- 
+ 
+which find
+f
+Kelani
+has
+invested in
+Phable
+
+
+     
+                                             
+ 
+7 
+ 
+SOSV: 
+)RXQGHGLQE\FRPSDQ\·V0DQDJLQJ3DUWQHU6HDQ2·6XOOLYDQ (following the IPO of MapInfo, a startup he co-founded 
+that pioneered computer-based street mapping), SOSV is a global venture capital firm that operates early stage startup 
+development programs. 
+ 
+6269·VSURJUDPVDUHIRFXVHGRQWZREURDGDUHDV7KHILUVWLs revolutionary technology that promises the betterment 
+of humanity and the planet. The second is cross-border markets, notably in Asia, that are ripe for explosive growth.  
+SOSV joins seed, series A and later rounds while providing founders with ongoing support and community.  
+ 
+6269·VSURJUDPVLQFOXGHKDUGZDUH-oriented HAX and life-science driven IndieBio. Both offer deep technical expertise 
+on-site as well as well-equipped lab and fabrication facilities. At Chinaccelerator and MOX, market-entry and product 
+development experts help entrepreneurs win cross-ERUGHUPDUNHWRSSRUWXQLWLHVDFURVV$VLD6269·VODWHVWSURJUDP
+dlab, fosters new players in the blockchain ecosystem. The five programs work with 135 new companies each year. As 
+of April 2021, SOSV had more than 1,000 portfolio companies and $970 million in assets under management. 
+ 
+$PRQJWKHWRSFRPSDQLHVLQ6269·VSRUWIROLRDUH1RW&R3HUIHFW'D\8SVLGH)RRGVIND0HPSKLV0HDWV<HHOLJKW
+Opentrons, Shopal, Snapask, BitMEX and API3. SOSV has invested in more than 35 Indian startups including CoutLoot, 
+Vidyakul, Money Club, Toch, Woovly etc. 
+ 
+SOSV has raised four funds since its inception, including a $277 million early-stage fund that it closed in 2019 and is 
+actively investing from right now. Now, to complement those funds, the organization has raised $100 million for what 
+LW·VFDOOLQJD´VHOHFWIXQGµWKDW·VPHDQWWRKHOS6269PDLQWDLQLWVSURUDWDVWDNHLQVRPHRILWVEUHDNDZD\SRUWIROLR
+companies. 
+The new fund is expected to write checks of between $2 million and $5 million and even up to $10 million ³ or 10% of 
+WKHIXQGSHU6269·VDJUHHPHQWZLWKLWVLQYHVWRUV 
+ 
+SNo. 
+Company Name 
+Founded 
+Year 
+City 
+Total Funding 
+(INR Crores) 
+Company 
+Stage 
+Latest Valuation  
+(INR Crores) 
+1 
+CoutLoot 
+2016 
+Mumbai 
+311.3 
+Series A 
+83.3 
+2 
+Toch 
+2016 
+Mumbai 
+102.0 
+Series A 
+112.5 
+3 
+Vidyakul 
+2017 
+Gurgaon 
+38.4 
+Seed 
+28.7 
+4 
+ClearDekho 
+2015 
+Ghaziabad 
+62.1 
+Pre-Series A 
+80.8 
+5 
+Woovly 
+2017 
+Bangalore 
+23.7 
+Seed 
+40.7 
+6 
+Pencil 
+2015 
+Mumbai 
+22.1 
+Seed 
+41.1 
+7 
+UNBOXROBC 
+2019 
+Bangalore 
+15.3 
+Seed 
+72.4 
+8 
+Adurcup 
+2014 
+Kanpur 
+14.9 
+Seed 
+73.7 
+9 
+PlayTooMe 
+2016 
+Bangalore 
+14.6 
+Seed 
+15.0 
+10 
+Superpro 
+2018 
+Mumbai 
+7.8 
+Seed 
+32.2 
+ 
+Aflac Ventures (incoming): 
+ 
+Founded in 2017 and based in USA, Aflac Global Ventures is the corporate venture arm of Aflac (A Fortune 150 company 
+providing financial protection to more than 50 million people worldwide). The company invests in young startups that develop 
+disruptive innovations in insurance, healthcare, finance, analytics and other related fields.  
+ 
+7KHFRPSDQ\DOVRKDVDVXEVLGLDU\FDOOHG¶$IODF,QQRYDWLRQ3DUWQHUV·ZKLFKLVKHDGTXDUWHUHGLQ-DSDQ(VWDEOLVKHGLQ
+2019, AIP partners with startup companies in HealthTech and InsurTech, aiming to create new AFLAC business, 
+strengthen existing business, and contribute to the further growth of its cohort of collaborators.  
+ 
+Aflac Global Ventures has an operating fund of $400 million, out of which both AFV and AIP fund startups across 
+geographies.  
+I
+Bad
+lit rate
+
+
+     
+                                             
+ 
+8 
+ 
+SNo. 
+Company Name 
+Founded 
+Year 
+City 
+Total Funding 
+(INR Crores) 
+Company 
+Stage 
+Latest Valuation  
+(INR Crores) 
+1 
+Tricog 
+2015 
+Bangalore 
+130 
+Series B 
+450 
+2 
+CellMax Life 
+2012 
+Ahmedabad 
+- 
+Funding Raised 
+- 
+3 
+Singlife 
+2014 
+Singapore 
+1,395 
+Series C 
+- 
+4 
+Craif 
+2018 
+Japan 
+85 
+Series B 
+- 
+5 
+Betterment 
+2010 
+USA 
+2,513 
+Series F 
+- 
+6 
+Unifa 
+2015 
+Japan 
+517 
+Series D 
+- 
+7 
+Chikaku 
+2014 
+Japan 
+44 
+Series A 
+- 
+8 
+Pagaya 
+2004 
+USA 
+1,095 
+Series D 
+- 
+9 
+ACT Genomics 
+2014 
+Taiwan 
+154 
+Series B 
+- 
+10 
+Kakehashi 
+2016 
+Japan 
+225 
+Series B 
+- 
+ 
+  
+Strategic Investors:  
+ 
+Manipal Hospitals: 
+Founded in 1953 as a part of Manipal Education System, Manipal Hospital is spread across 15 locations in India. The 
+first branch of Manipal Hospitals was started in 1991 in Bengaluru. The branch is a 600-bed Quaternary care facility 
+and houses over 60 specialties. The Hospital Chain has raised ~INR 6,300 Cr from the likes of NIIF, TPG, Temasek, 
+Ture North and Kotak PE Group. 
+ 
+In April 2019, Manipal Hospitals purchased Medanta Hospitals shares for INR 5,800 Cr. Apart from Phable, Manipal 
+Hospitals has also invested in SRL Diagnostics (Series B, Undisclosed) and Ankur Healthcare (Series A, INR 50Cr) 
+ 
+ 
+OMRON: 
+Founded in 1933, OMRON is a global leader in the field of automation based on its core technology of sensing and 
+control, and has created various innovations that are the forerunners of the world. They focus on four domains of 
+"Factory Automation", "Healthcare", "Mobility" and "Energy Management". They are present in 120 countries and 
+regions around the world. 
+ 
+The company has made 7 investments and 4 acquisitions till date out of which only Phable is their only Indian 
+investment.  
+ 
+Key Conclusion: 
+ 
+The company has strong early and growth stage focused investors on the cap table namely SOSV and Kalaari and 
+strategic investors like Manipal Hospitals and OMRON, that can support the company in its further rounds and 
+growth. The company is planning to raise ~INR 225-300 Cr in November this year from both new (two co-leads) and 
+existing investors. 
+Phable has its new equity round coming in December 2021, with infusion from Kalaari Capital ($7M), OMRON ($3M), 
+Aflac Ventures ($5M) and $2M from existing investors. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+I
+What is
+the
+current stage of thi
+Tem
+sheet signed
+why not priced
+Manipal is not participating
+Cop table
+look weak
+no
+major
+inverters
+
+
+     
+                                             
+ 
+9 
+ 
+Business Profile 
+ 
+Introduction 
+ 
+Founded in 2017, Phable is a chronic disease management platform for chronic disease patients and healthcare 
+providers. It is an ecosystem of medical devices, insurers, hospitals, doctors, pharmacies, labs, etc. focused on patient 
+care access and experience. 
+ 
+Its full stack technology platform is powered by a proprietary AI and ML that leverages patient data to provide real 
+time interventions. In addition to doctor-patient engagement, its marketplace model captures healthcare spend by 
+offering medical devices, medicines, subscription plans, etc. on its platform.  
+ 
+Phable was founded by Sumit Sinha and Mukesh Bansal. Sumit is a second time entrepreneur (founded Kristys 
+Kitchen which was later acquired by Cure.Fit at a premium) and has experience in tech, sales and consulting working 
+at ICICI Bank, Deloitte, Borderless Access, etc. Mukesh has over 15 years of experience in tech working at 
+organisations such as Kantar, Borderless Access, etc. Both founders had the idea of founding a digital healthcare 
+platform after identifying significant gaps in their past experiences with the Indian healthcare infrastructure. 
+ 
+The company has raised over ~INR 64 Cr from Kalaari Capital, Manipal Hospitals, Omron, etc. and is currently at an 
+annualized GMV of ~INR 96 Cr.  
+ 
+Problem Statement 
+ 
+India suffers from a high level of chronic disease, with over 20% of the population suffering from chronic diseases 
+(WHO, 2016 report). Additionally, more than 50% of deaths annually can be attributed to chronic illnesses. Due to 
+this high incidence of non-communicable diseases, ~70% of all healthcare spend in India is on chronic diseases.  
+ 
+Traditional systems of providing curative healthcare are not engagement centric, lack tech-enabled solutions and are 
+reactive in nature. Moreover, due to lack of a single platform, data is stored in silos. The challenges can be 
+summarized as follows: 
+ 
+For Doctors: 
+ 
+¾ Doctors need multiple technology platforms their practice and do not have access to a single platform for end-
+to-end practice management and engagement. 
+ 
+¾ There is a lack of data trail that can be leveraged to drive data-driven and outcome-based solutions. For 
+example, prescriptions are issued on paper. 
+ 
+¾ Doctors do not have the means to drive engagement and loyalty with patients. They find it difficult to keep 
+track of patient progress. 
+ 
+For Patients: 
+ 
+¾ Manual tracking of progress and lack of means to improve adherence to disease management. 
+ 
+¾ Lack of a single platform for access all healthcare needs and dependency of various sources. 
+ 
+¾ High cost of healthcare due to lack of preventive measures and information asymmetry. 
+ 
+3KDEOH·V6ROXWLRQ 
+
+
+     
+                                             
+ 
+10 
+ 
+Phable has built a full-stack two-sided technology platform for patients as well as doctors. For patients, it serves as a 
+one-stop platform for doctor consultations, document digital health records, book lab tests, order medicines and 
+devices, access disease specific content, and care management through alerts, reminders, etc. For doctors, it serves as 
+a single platform for bookings management, document patient records and history, patient engagement, and real-
+time patient tracking.  
+ 
+3KDEOH·VSODWIRUPKDVWKUHHOD\HUV² Transactions, Data, and Data-Driven Insights  
+ 
+ 
+ 
+x 
+Transactions: All healthcare related products and services for doctors (clinic management, billing, tele-
+consultations, etc.) and patients (medicines, devices, labs, tele-consultations, insurance, etc.). 
+ 
+x 
+Data: Collecting static data (prescriptions, lab tests, etc.) through platform bookings and longitudinal data 
+(biometrics, etc.) through IoT connected medical devices (third party). 
+ 
+x 
+Data-Driven Insights: Targeted content, risk scoring, personalized therapy, and disease management by 
+leveraging patient specific and clinical data. 
+ 
+Business Overview 
+ 
+FY21YTD Revenue Movement 
+ 
+1.2 
+1.1 
+0.7 
+1.5 
+2.7 
+5.8 
+7.9 
+April
+May
+June
+July
+August
+September
+October
+O
+dawn for
+thisjump
+
+
+     
+                                             
+ 
+11 
+ 
+3KDEOHVWDUWHGPRQHWL]LQJUHFHQWO\LQ)HEUXDU\·7KHDSSLVFXUUHQWO\IUHHWRXVHIRUGRFWRUV6LPLODUO\SDWLHQW-
+doctor engagement is free. However, the company generates revenue from any transactions made on the app 
+(medicine delivery, appointment bookings, medical devices, subscriptions, etc.). 
+ 
+In a span of a ~10 months, the company has reached a monthly GMV of ~INR 7.9 Cr. This is largely driven by 
+medicine and device sales that account for ~75% of GMV in FY22 YTD. 
+ 
+Revenue Streams 
+ 
+Currently, the company has the following revenue streams: 
+ 
+1. Medicine Sales: Phable has a B2B and a B2C business in medicine: 
+ 
+¾ B2B Medicine Procurement: Phable provided a B2B procurement platform to pharmacies to procure 
+medicine inventory directly from manufacturers and wholesalers. However, the contribution to GMV in 
+insignificant (<2%) and the vertical will be discontinued in the coming months 
+ 
+¾ B2C E-Pharmacy: Users can order medicines through the Phable app. The company has partnered with 
+1mg and Pharmeasy to provide these services. However, the company is in the process of building in-
+house capabilities by partnering with local pharmacies (pilot launched in Bangalore). 
+ 
+2. Device Sales: Users can order medical devices such as glucometer, BP monitor, personal ECG device, etc. The 
+company has partnered with Accu-Check, Omron (existing investor), Polar, etc. to distribute their products 
+through the Phable app. These smart devices are targeted towards chronic disease patients and can be synced 
+with the Phable app for real-time tracking by doctors. 
+ 
+3. Subscriptions: Users can subscribe to healthcare plans. There are different plans available for different chronic 
+GLVHDVHVXVXDOO\DFRPELQDWLRQRIDGHYLFHSDLUHGZLWKRWKHUVHUYLFHV)RUH[DPSOHWKH¶'LDEHWHV&DUH3DFNDJH·
+includes a glucometer, diabetes expert assessment, unlimited doctor consultations, personalized fitness sessions, 
+etc.  
+ 
+4. Diagnostic Labs: Users can book diagnostic tests. The company has partnered with diagnostic labs such as SRL 
+Diagnostics, Thyrocare, Healthians, etc. to provide these services.  
+ 
+5. Doctor Consultations: Users can book appointments or tele-consultations with partner doctors. 
+ 
+6. Health and Wellness: Users can buy healthy food supplements and has partnered with brands such as True 
+Elements that offers healthy breakfast options and snacks. 
+ 
+7. Corporate Wellness: Phable has started partnering with corporates to provide comprehensive corporate wellness 
+plans to its employees.  
+ 
+8. Consumer Insurance: Phable has partnered with Care Insurance to provide insurance plans to users. The plans 
+include health insurance from Care coupled with services offered by Phable such as doctor consultations, health 
+management programs, discounts on lab tests, etc. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+j
+is
+
+
+     
+                                             
+ 
+12 
+ 
+Revenue Split (FY22 till Oct· 
+ 
+ 
+*Others includes health and wellness, corporate wellness, insurance 
+ 
+GTM Strategy 
+ 
+The company follows a B2B2C and B2C model for user acquisition: 
+ 
+x 
+B2B2C model: Phable acquires users by partnering with doctors and clinics. For doctors, Phable serves as a free to 
+use end-to-end clinic management platform for managing appointments, health records, tele-consultations, etc. 
+which incentivizes doctors to adopt the platform. After partnering with doctors, all patients are encouraged to use 
+the Phable app for future engagement with the doctors. 7KHGRFWRUVFDQPRQLWRUWKHSDWLHQWV·YLWDOVLQUHDOWLPH
+through IoT devices connected to the Phable app. This acquisition channel leads to high adoption and retention 
+on the platform. ~60% of users are acquired through this channel.  
+ 
+x 
+B2C model: Phable utilizes digital marketing tools  to acquire users directly. Most used channels of marketing are 
+social platforms such as Facebook, Google, etc.  ~30% of users are acquired through this channel. (10% of users 
+are through organic downloads). 
+ 
+ 
+Marketing and Discounting Strategy 
+ 
+Phable is focusing on driving change in consumer behavior by incentivizing patients to transact digitally. The 
+platform is offering deep discounts for user acquisition and mostly retention. The platform, however, is moving 
+towards a subscription model wherein users will pay a minimal monthly fee to avail discounted services.  
+ 
+6WDUWLQJ-DQXDU\·WKHFRPSDQ\LVSODQQLQJDQH[WHQVLYH 15 month marketing campaign across traditional and print 
+media.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Medicine Sales
+INR 10.7 Cr
+51%
+Device Sales
+INR 5.0 Cr
+24%
+Subscription Income
+INR 3.0 Cr
+15%
+Diagnostic Labs
+INR 1.2 Cr
+6%
+Others*
+INR 0.8 Cr
+4%
+mouth on
+monthment
+what
+is
+the
+
+
+     
+                                             
+ 
+13 
+ 
+Growth in Users 
+(INR lakh) 
+   
+ 
+Apr'21 
+May'21 
+Jun'21 
+Jul'21 
+Aug'21 
+Total Users (in 
+Lakhs) 
+4.02  
+4.67  
+5.42  
+6.25  
+7.41  
+Monthly Active 
+Patients 
+69% 
+64% 
+64% 
+64% 
+63% 
+Transacting users 
+(% of MAU) 
+4% 
+4% 
+3% 
+3% 
+4% 
+Note: Monthly active users are defined as users having at least one session on the app per month. 
+ 
+Number of Transactions and AOV Chart MoM 
+ 
+ 
+The chronic disease patients initially use Phable for ongoing engagement with their doctors, documenting health 
+records, and monitoring their vitals through smart devices. This drives change in consumer behavior as users begin 
+to transact on the app (medicines, lab bookings, consultations, etc.) in addition to using the app merely for doctor 
+engagement and tracking. This changing consumer behavior is captured in the growing user base who are also 
+transacting as well as the MoM increase in AOV. Since most patients are chronic disease patients, they require 
+medical devices and specialized medicines due to which the AOV is high. 
+ 
+ 
+4.02 
+4.67 
+5.42 
+6.25 
+7.41 
+2.75 
+3.00 
+3.45 
+4.00 
+4.65 
+0.12 
+0.12 
+0.11 
+0.13 
+0.17 
+April
+May
+June
+July
+August
+Total Patient Base
+Monthly Active Patients
+Transacting users
+ൟ1,632 
+ൟ1,535 
+ൟ1,648 
+ൟ1,966 
+ൟ1,831 
+7,413 
+7,487 
+4,085 
+7,653 
+14,751 
+Apr'21
+May'21
+Jun'21
+Jul'21
+Aug'21
+AOV
+Number of Transactions
+
+
+     
+                                             
+ 
+14 
+ 
+Low Customer CAC due to Doctor Acquisition Channel 
+ 
+Acquiring patients through doctors have created a strong network effect amongst patients and the doctor community 
+alike. This customer acquisition approach has led to consistent drop in CAC across doctors and patients: 
+ 
+Particulars 
+(INR) 
+Jun-
+20 
+Jul-
+20 
+Aug-
+20 
+Sep-
+20 
+Oct-
+20 
+Nov-
+20 
+Dec-
+20 
+Jan-
+21 
+Feb-
+21 
+Mar-
+21 
+Apr-
+21 
+May-
+21 
+Jun-
+21 
+Jul-
+21 
+Aug-
+21 
+Doctor 
+CAC 
+18,244 
+6,763 
+3,562 
+3,243 
+2,757 
+4,550 
+5,483 
+6,759 
+2,956 
+7,669 
+4,308 
+4,407 
+4,182 
+3,483 
+3,351 
+User CAC* 
+241 
+154 
+83 
+93 
+135 
+75 
+36 
+56 
+35 
+41 
+50 
+24 
+30 
+39 
+45 
+*Acquired users are total sign ups on the platform  
+ 
+In 15 months, the CAC per doctor and XVHUKDVFRPHGRZQIURP,15DQG,15LQ-XQ·WR,153,351 and 
+INR 45 for doctors and users, respectively. More importantly, Phable has seen maintained robust customer retention 
+while acquiring customers at scale: 
+ 
+Overall User Retention 
+ 
+ Month of 
+Download 
+#Users 
+Added 
+Nov-
+20 
+Dec-
+20 
+Jan-
+21 
+Feb-
+21 
+Mar-
+21 
+Apr-
+21 
+May-
+21 
+Jun-
+21 
+Jul- 
+21 
+Aug-
+21 
+Sep-
+21 
+Oct-
+21 
+Nov-20 
+17,007 
+100% 
+85% 
+67% 
+63% 
+60% 
+59% 
+56% 
+55% 
+50% 
+49% 
+47% 
+44% 
+Dec-20 
+30,045 
+  
+100% 
+83% 
+71% 
+63% 
+59% 
+56% 
+54% 
+53% 
+49% 
+46% 
+43% 
+Jan-21 
+42,848 
+  
+  
+100% 
+81% 
+67% 
+65% 
+60% 
+59% 
+56% 
+55% 
+50% 
+47% 
+Feb-21 
+49,451 
+  
+  
+  
+100% 
+84% 
+81% 
+74% 
+69% 
+66% 
+64% 
+60% 
+58% 
+Mar-21 
+43,065 
+  
+  
+  
+  
+100% 
+91% 
+88% 
+79% 
+75% 
+69% 
+63% 
+58% 
+Apr-21 
+54,229 
+  
+  
+  
+  
+  
+100% 
+94% 
+89% 
+84% 
+79% 
+71% 
+64% 
+May-21 
+65,678 
+  
+  
+  
+  
+  
+  
+100% 
+84% 
+80% 
+78% 
+67% 
+58% 
+Jun-21 
+74,959 
+  
+  
+  
+  
+  
+  
+  
+100% 
+85% 
+81% 
+75% 
+65% 
+Jul-21 
+82,797 
+  
+  
+  
+  
+  
+  
+  
+  
+100% 
+83% 
+74% 
+63% 
+Aug-21 
+1,16,446 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+100% 
+81% 
+70% 
+Sep-21 
+2,10,063 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+100% 
+78% 
+Oct-21 
+2,60,824 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+100% 
+ 
+Phable has retained ~45% of the customers acquired through both channels (Digital and Doctor channels). 
+Onboarding users using the doctor channel has led to even higher retention driven by doctor-patient engagement: 
+ 
+User Retention (Doctor Channel) 
+ 
+Month of 
+download 
+#Users 
+Added 
+Jan- 
+21 
+Feb- 
+21 
+Mar- 
+21 
+Apr- 
+21 
+May-21 
+Jun- 
+21 
+Jul- 
+21 
+Aug- 
+21 
+Sep- 
+21 
+Oct- 
+21 
+Jan-21 
+26,768 
+100% 
+89% 
+83% 
+81% 
+78% 
+77% 
+75% 
+74% 
+67% 
+63% 
+Feb-21 
+31,520 
+  
+100% 
+92% 
+89% 
+82% 
+79% 
+77% 
+74% 
+70% 
+67% 
+Mar-21 
+29,272 
+  
+  
+100% 
+96% 
+93% 
+87% 
+84% 
+78% 
+71% 
+66% 
+Apr-21 
+41,088 
+  
+  
+  
+100% 
+96% 
+92% 
+88% 
+85% 
+77% 
+70% 
+May-21 
+47,152 
+  
+  
+  
+  
+100% 
+90% 
+86% 
+84% 
+76% 
+66% 
+Jun-21 
+51,198 
+  
+  
+  
+  
+  
+100% 
+89% 
+86% 
+80% 
+73% 
+Jul-21 
+56,790 
+  
+  
+  
+  
+  
+  
+100% 
+89% 
+81% 
+70% 
+Aug-21 
+72,992 
+  
+  
+  
+  
+  
+  
+  
+100% 
+87% 
+78% 
+Sep-21 
+1,06,547 
+  
+  
+  
+  
+  
+  
+  
+  
+100% 
+85% 
+Oct-21 
+1,41,027 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+100% 
+ 
+More importantly, there is strong momentum in the active user base over the last 12 months: 
+Incentive
+to
+doctor
+How
+is
+retention
+defined
+
+
+     
+                                             
+ 
+15 
+ 
+ 
+ 
+Note: Active users are defined as users having at least one session on the app per day, week and month 
+ 
+ 
+While monthly active users have been stagnant at ~1.1 lakh, weekly active users have gone up by ~40% to ~44,000 
+while daily active users have gone up by ~95% to ~31,000. This is a strong indicator of increase in adoption by the 
+active users over time: 
+ 
+Particulars 
+Nov-
+20 
+Dec-
+20 
+Jan- 
+21 
+Feb- 
+21 
+Mar-
+21 
+Apr- 
+21 
+May-
+21 
+Jun- 
+21 
+Jul- 
+21 
+Aug-
+21 
+Sep- 
+21 
+Oct- 
+21 
+DAU/MAU 
+14% 
+11% 
+21% 
+18% 
+21% 
+23% 
+23% 
+20% 
+23% 
+26% 
+27% 
+28% 
+WAU/MAU 
+27% 
+27% 
+44% 
+31% 
+29% 
+29% 
+31% 
+30% 
+33% 
+37% 
+37% 
+40% 
+ 
+Customer Ratings Analysis  
+ 
+ 
+ 
+Conclusion: 
+ 
+16.4
+12.7
+25.5
+20.0
+25.5
+29.1
+27.3
+23.7
+27.3
+29.1
+30.9
+30.9
+30.9
+29.6
+52.6
+33.8
+34.6
+36.4
+36.4
+34.6
+38.2
+41.9
+41.9
+43.7
+113.8
+111.4
+120.7
+110.3
+120.0
+124.8
+116.8
+115.8
+116.4
+114.2
+112.6
+110.2
+Nov-20
+Dec-20
+Jan-21
+Feb-21
+Mar-21
+Apr-21
+May-21
+Jun-21
+Jul-21
+Aug-21
+Sep-21
+Oct-21
+Active Users ('000s)
+DAU
+WAU
+MAU
+2 619C
+while
+1 I at
+
+
+     
+                                             
+ 
+16 
+ 
+Phable has a favourable online rating compared to most of the existing Medicare and healthcare segments. The number 
+downloads are more than 1 million and ~8,500 have given their reviews to aggregate a cumulative of 4.2 on Google 
+Play Store. Even on Glassdoor, ~80% of employees recommend it as a good place of work. 
+ 
+Supply Partners 
+ 
+Phable has created a network of healthcare partners across doctors, hospitals, device manufacturers, consumables, 
+etc. to cater to comprehensive healthcare requirements of all users on the platform. For doctors, the Phable platform 
+serves as a clinic management software to manage bookings, tele-consultations, e-bookings, billing, etc. which serves 
+as a hook for doctors to adopt Phable. 
+ 
+3KDEOH·V3DUWQHU1HWZRUN 
+ 
+ 
+Doctor Acquisition Strategy 
+ 
+The platform relies on doctor partnerships to acquire customers and has ~6,400 doctor partners on its platform. 
+Doctors are acquired mostly through an on-ground sales team (feet on street) and through digital marketing. 
+However, feet on street continues to be the dominant source of acquisition for doctors (85-90% acquisitions). With 
+higher acceptability and scale in business, Phable has acquired ~3,300 doctors in the last 12 months  
+ 
+ 
+Most Active Doctors on Phable 
+ 
+Doctor Name 
+Description 
+Dr. Oliver Rodrigues 
+ 
+Years of Experience: 13 years 
+Practice Area: General Physician 
+ 
+Work Experience: 
+¾ Scorpion Clinic, Varthur, Bangalore 
+¾ Dr. Levine Memorial Hospital, Bangalore 
+ 
+Educational Qualifications: 
+¾ MBBS, St John's Medical College, Bangalore (Class of 2008) 
+¾ PGDFM - CMC, Vellore (Class of 2011) 
+
+
+     
+                                             
+ 
+17 
+ 
+Dr. Vivek Baliga 
+ 
+Years of Experience: 16 years 
+Practice Area: Internal Medicine and Cardiologist 
+ 
+Work Experience: 
+¾ Baliga Diagnostics, Bangalore 
+¾ Aster RV Hospital, Bangalore 
+¾ Fortis Hospital, Bangalore 
+¾ HeartSense, Bangalore 
+¾ Indian Academy of Echocardiography, Karnataka Chapter 
+ 
+Educational Qualifications:  
+¾ MBBS, Kasturba Medical College, Mangalore (Class of 2000) 
+¾ MRCP, Royal College of Physicians (Class of 2006) 
+ 
+Dr. Shrideep Arun Parab 
+ 
+Years of Experience: 20 years 
+Practice Area: Gynaecologist 
+ 
+Work Experience: 
+¾ Adishri Clinic, Pune 
+¾ Nandadeep Hospital, Satara 
+ 
+Educational Qualifications: 
+¾ MBBS, Satarov State Medical University, Russia (Class of 2010) 
+¾ DGO, CPS Mumbai (Class of 2016) 
+ 
+Dr. Venkatesh Somalaram 
+ 
+Years of Experience: 5 years 
+Practice Area: Cardiologist 
+ 
+Work Experience: 
+¾ Aster RV Hospital, Bangalore 
+¾ Fortis Hospital, Bangalore 
+ 
+Educational Qualifications:  
+¾ MBBS, Dr. B R Ambedkar Medical College (Class of 1992) 
+¾ MD in Internal Medicine, PGIMER, Chandigarh (Class of 2001) 
+ 
+Dr. Jivesh Singla 
+ 
+Years of Experience: 6 years 
+Practice Area: Internal Medicine and General Physician 
+ 
+Work Experience: 
+¾ Aggarwal Hospital, Jalandhar 
+ 
+Educational Qualifications:  
+¾ MBBS, Maharishi Markandeshwar Institute of Medical Sciences & Research, 
+Mullana, Ambala (Class of 2013) 
+¾ DNB - Family Medicine from Mahatma Gandhi Institute of Medical Sciences, 
+Sewagram (Class of 2016) 
+ 
+ 
+ 
+Doctor Retention and Adoption Metrics 
+ 
+
+
+     
+                                             
+ 
+18 
+ 
+In the last 12 months, Phable has doubled its doctor base by adding ~3,300 doctors. ~65% of the doctors added in 
+1RY·FRQWLQXHWRZRUNZLWK3KDEOHDVRQ2FW· 
+ 
+Month 
+#Doctors 
+Nov-
+20 
+Dec-
+20 
+Jan-
+21 
+Feb-
+21 
+Mar-
+21 
+Apr-
+21 
+May-
+21 
+Jun-
+21 
+Jul-
+21 
+Aug-
+21 
+Sep-
+21 
+Oct-
+21 
+Nov-20 
+169 
+100% 
+85% 
+78% 
+73% 
+68% 
+68% 
+68% 
+68% 
+68% 
+68% 
+65% 
+65% 
+Dec-20 
+121 
+ 
+100% 
+87% 
+75% 
+74% 
+73% 
+73% 
+72% 
+64% 
+64% 
+64% 
+64% 
+Jan-21 
+85 
+ 
+ 
+100% 
+89% 
+84% 
+84% 
+84% 
+81% 
+81% 
+79% 
+74% 
+69% 
+Feb-21 
+105 
+ 
+ 
+ 
+100% 
+93% 
+90% 
+90% 
+85% 
+85% 
+81% 
+75% 
+71% 
+Mar-21 
+120 
+ 
+ 
+ 
+ 
+100% 
+95% 
+95% 
+88% 
+84% 
+84% 
+81% 
+75% 
+Apr-21 
+337 
+ 
+ 
+ 
+ 
+ 
+100% 
+97% 
+89% 
+84% 
+84% 
+82% 
+79% 
+May-21 
+229 
+ 
+ 
+ 
+ 
+ 
+ 
+100% 
+93% 
+89% 
+86% 
+83% 
+80% 
+Jun-21 
+288 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+100% 
+94% 
+89% 
+84% 
+80% 
+Jul-21 
+340 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+100% 
+91% 
+85% 
+81% 
+Aug-21 
+404 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+100% 
+91% 
+89% 
+Sep-21 
+508 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+100% 
+92% 
+Oct-21 
+583 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+100% 
+ 
+ 
+There are ~6,300 doctors on the platform out of which ~80% are monthly active users. While the number of doctors 
+on the platform have doubled in the last 12 months, Phable has maintained a strong base of active doctors that drives 
+engagement and therefore, adoption by patients.  
+ 
+ 
+Note: Active doctors are defined as Doctors having at least one session (managing bookings, tele-consultation, patient monitoring) on the app 
+per day, week and month 
+ 
+Sample Agreements with Partners 
+ 
+Name 
+Pharmeasy 
+Omron 
+Prima Diagnostics 
+Date of 
+Agreement 
+15th June 2021 
+1st July 2021 
+15th December 2020 
+Scope of 
+Services 
+x Pharmeasy shall provide a web 
+based or mobile app technology 
+for processing orders on behalf 
+of the users placing orders on 
+3KDEOH·VSODWIRUP 
+x Phable and Omron to 
+collaborate and provide Omron 
+devices to its customers 
+through subscriptions  
+ 
+x Prima Diagnostics shall provide 
+delivery of Lab services 
+including: 
+¾ Scans and radiology 
+services 
+393 
+645 
+974 
+1,111 
+1,852 
+2,263 
+2,733 
+1,276 
+2,106 
+2,492 
+2,673 
+3,051 
+519 
+950 
+1,566 
+1,684 
+2,334 
+2,586 
+3,032 
+2,233 
+2,792 
+3,234 
+3,544 
+4,259 
+912 
+1,348 
+1,891 
+2,047 
+2,612 
+2,971 
+3,378 
+3,651 
+3,966 
+4,256 
+4,642 
+4,994 
+Nov-20
+Dec-20
+Jan-21
+Feb-21
+Mar-21
+Apr-21
+May-21
+Jun-21
+Jul-21
+Aug-21
+Sep-21
+Oct-21
+Active Doctors
+DAU
+WAU
+MAU
+Incentives to
+doctors
+of
+checks from
+doctors
+alternatives
+available for
+doctors
+
+
+     
+                                             
+ 
+19 
+ 
+x Devices include - BP Monitor, 
+Nebulizer, Weight & BMI, TH, 
+TENS, Pulse Oximeter 
+¾ Sample blood tests (Blood, 
+Saliva, etc.) 
+ 
+for users placing orders on 
+3KDEOH·VSODWIRUP 
+Revenue 
+Sharing 
+x 
+For every completed order, 
+Phable to receive 5% 
+commission on all delivered 
+orders 
+ 
+x 
+Customer Discount = 
+Pharmeasy base discount + 
+2% Phable Partnership 
+discount 
+x 
+Device Margin: 37% to 102% 
+on cost price (subject to device 
+type); Device cost ranges from 
+INR 1,000 to INR 8,000 
+ 
+x 
+Subscriptions Margin: 10% on 
+first-time subscription; 10% on 
+renewal of subscription on 
+cost price; First Subscription: 
+INR 2,999 
+Renewal: INR 1,599 
+x 
+Prima agrees to pay Phable 
+the following fee: 
+ 
+¾ Pathology and Radiology 
+- <2 Lakhs - 40% 
+- 2-4 Lakhs - 45% 
+- >4 Lakhs - 50% 
+ 
+ 
+¾ Packages  
+- < 30 pkgs - 30% 
+- > 30 pkgs - 35% 
+ 
+Home Collection Charges between 
+INR 100-500 to be levied by Prima 
+Diagnostics 
+Payment 
+Terms 
+¾ Within 45 days of invoice. 
+ 
+¾ The product price shall be 
+paid to Omron by 30 days 
+from the delivery date.  
+ 
+¾ For the subscription service 
+fee, PhableCare shall pay 
+Omron the amounts stipulated 
+above based 
+on [T + 5] days 
+¾ Within 15 days of invoice 
+Validity 
+¾ Valid until one of the parties 
+gives a termination notice 
+¾ Valid till 31st March 2022, can 
+be extended after giving a 
+notice 3 months prior to the 
+termination of the agreement 
+¾ Valid until 1 year from the 
+date of execution 
+Termination 
+¾ Right to terminate with 
+immediate effect upon giving 
+an advance notice of 30 days 
+to the service provider 
+¾ Right to terminate with 
+immediate effect upon giving 
+an advance notice of 30 days 
+to the service provider 
+¾ Right to terminate with 
+immediate effect upon giving 
+an advance notice of 30 days to 
+the service provider 
+ 
+Working Capital 
+ 
+The company has minimal working capital.  
+ 
+Inventory: 7KHFRPSDQ\NHHSVDVPDOODPRXQWRILQYHQWRU\,15a&UDVRQ6HS·IRUIDVWPRYLQJKHDOWKFDUH
+devices.  
+ 
+Receivables: Receivables are mostly in the form of commission revenue from supply partners (For ex: Pharmeasy and 
+1MG), receivables from pharmacies for procurement of medicines (B2B  medicine sales) and orders for devices in 
+transit (unbilled revenue). 
+ 
+5HFHLYDEOHV$JHLQJDVRQ6HS· 
+(INR Crore) 
+Particulars 
+Group 
+On 
+Account 
+<30 
+days 
+30-60 
+days 
+60-90 
+days 
+>90 
+days 
+Total 
+Share 
+% 
+Unbilled Revenue (Device 
+Sales) 
+Order in transit 
+- 
+0.58 
+- 
+- 
+- 
+0.58 
+31.5% 
+
+
+     
+                                             
+ 
+20 
+ 
+Pharmeasy 
+Commission 
+- 
+- 
+- 
+- 
+0.51 
+0.51 
+28.1% 
+1 MG 
+Commission 
+- 
+0.02 
+0.03 
+- 
+0.02 
+0.07 
+4.0% 
+Dinka Pharma 
+B2B Medicine Sales 
+- 
+0.01 
+0.00 
+- 
+- 
+0.01 
+0.6% 
+Dia Plus 
+B2B Medicine Sales 
+- 
+- 
+- 
+- 
+0.01 
+0.01 
+0.6% 
+Family Tree Pharma 
+B2B Medicine Sales 
+- 
+0.00 
+0.00 
+0.00 
+0.00 
+0.01 
+0.5% 
+Pharma Bliss 
+B2B Medicine Sales 
+- 
+- 
+- 
+0.00 
+0.01 
+0.01 
+0.4% 
+Bharath Medicals 
+B2B Medicine Sales 
+- 
+- 
+- 
+- 
+0.05 
+0.05 
+2.9% 
+Beyond Health Care 
+B2B Medicine Sales 
+- 
+- 
+- 
+- 
+0.05 
+0.05 
+2.6% 
+Others 
+Others 
+0.05 
+0.01 
+0.01 
+0.00 
+0.45 
+0.53 
+28.8% 
+Total 
+0.05 
+0.62 
+0.05 
+0.01 
+1.10 
+1.83 
+100.0% 
+Share % 
+2.9% 
+33.8% 
+2.7% 
+0.4% 
+60.2% 
+100.0% 
+  
+ 
+Payables: Payables are mostly in the form payables to device manufacturers, and other vendors (corporate credit card 
+providers, diagnostic labs, etc.) 
+ 
+3D\DEOHV$JHLQJ$VRQ6HS· 
+(INR Crore) 
+Particulars 
+Group 
+On 
+Account 
+<30 
+days 
+30-60 
+days 
+60-90 
+days 
+>90 
+days 
+Total 
+Share % 
+Roche Diabetics 
+Care  
+Device Inventory  
+- 
+0.50 
+0.12 
+- 
+0.02 
+0.64 
+17.3% 
+Mahendra Drug 
+Agencies 
+B2B Medicine Sales 
+- 
+0.04 
+0.04 
+0.03 
+0.46 
+0.57 
+15.3% 
+Karbon Card 
+Credit Card Payables 
+0.56 
+- 
+- 
+- 
+- 
+0.56 
+15.1% 
+Provision COGS 
+Order in transit 
+0.40 
+- 
+- 
+- 
+- 
+0.40 
+10.7% 
+Mogli Labs (India) 
+Marketing 
+- 
+0.27 
+- 
+- 
+- 
+0.27 
+7.2% 
+Omron Health 
+Care 
+Provisions for bills not 
+received 
+0.16 
+- 
+- 
+- 
+- 
+0.16 
+4.2% 
+Grantrail 
+Wholesale 
+B2B Medicine Sales 
+- 
+0.01 
+0.02 
+0.01 
+0.08 
+0.12 
+3.3% 
+Computer 
+Exchange 
+Computer Equipment 
+vendor 
+- 
+0.06 
+- 
+- 
+0.05 
+0.11 
+3.0% 
+Venkatesh Babu 
+CA 
+Consultant 
+- 
+0.01 
+- 
+- 
+0.09 
+0.10 
+2.6% 
+Walkover Web 
+Solutions 
+Marketing 
+- 
+- 
+- 
+0.01 
+0.07 
+0.07 
+2.0% 
+Others 
+Others 
+0.20 
+0.30 
+0.05 
+0.07 
+0.10 
+0.71 
+19.2% 
+Total 
+1.32 
+1.18 
+0.23 
+0.12 
+0.87 
+3.71 
+100.0% 
+Share % 
+35.4% 
+31.7% 
+6.2% 
+3.3% 
+23.3% 
+100.0% 
+ 
+ 
+Future Plans 
+ 
+As the dependency and adoption by doctors and patients increases, Phable will look to introduce new services and 
+focus on more strategic partnerships to become a one stop platform for both, doctors as well as patients.  
+ 
+Patients 
+ 
+x 
+Retail Vertical 
+ 
+Phable has plans to increase its offering and bolster existing ones by introducing services such as: 
+ 
+¾ Post IPD services for post-surgery care including consultation, insurance claim processing, etc.  
+
+
+     
+                                             
+ 
+21 
+ 
+¾ At home healthcare services including doctor, nurse, and physio on demand 
+¾ Specialized testing including genetic testing (gut microbiome, etc.) 
+ 
+x 
+Corporate Vertical 
+ 
+¾ Phable is building its corporate vertical to provide corporate health benefit plans targeted towards early-stage 
+startups with an employee strength of 50-150 employees.  
+ 
+¾ These health benefit plans will be a combination of health insurance and healthcare services that can be 
+availed on the Phable app. In the near future, the company also plans to roll out healthcare credit cards for 
+employees which would allow them to seamlessly avail 36-month healthcare loans. 
+ 
+¾ Since its recent launch, Phable has onboarded 2 corporates including Ola. The company is in the process of 
+hiring experienced senior professionals with a strong network of corporates to bolster its corporate 
+partnerships.  
+ 
+Doctors and Clinics 
+ 
+Currently, Phable is focusing on adoption and acquiring patients through doctors. Therefore, the platform is free to 
+use for doctors and focuses on overall clinic management and patient engagement. However, Phable plans to 
+monetize doctor engagement by introducing products such as:  
+ 
+¾ Doctor Consumables: Phable will serve as a procurement platform for doctors to procure consumables (surgical 
+gloves, hospital wear, syringes, etc.) directly through the platform. 
+ 
+¾ Advertising for Doctors: The Phable patient base is ~12 lakh users and growing. As the base continues to expand 
+rapidly, doctors will be able to advertise their services on the Phable App to target patients. 
+ 
+¾ SaaS and Data Tools: Phable will provide paid analytics and SaaS tools to doctors, clinics, and hospitals for e-
+prescriptions, electronic medical records, tele-consultations, etc. The company has successfully completed its pilot 
+and has deployed its SaaS tool for doctors across Fortis hospitals in South India.  
+ 
+Strategic Partnerships 
+ 
+Phable is bundling its subscription services with device manufacturers such as Omron, Accu-Check, etc. For example, 
+Phable is rolling out its subscription services for all Omron users pan India. With every purchase of an Omron device, 
+WKHUHZLOOEHD45FRGHRQWKHSURGXFWWRDFFHVV3KDEOH·VVXEVFULSWLRQSODQV7KHVHZRXOGEHDWGLVFRXQWHGUDWHVDQG
+free of cost for a fixed period after which the users can get it renewed for a fee. 
+ 
+Strategic Acquisitions 
+ 
+Phable has planned strategic acquisitions across different healthcare domains to support its growth plans. Some of its 
+target acquisitions are: 
+ 
+Company 
+Business Overview 
+Revenue 
+BeatO(1) 
+BeatO is a diabetes management platform with remote healthcare coaching. 
+With BeatO Care, users can book blood test, physical examination and 
+educator visit at home.  
+Some of its key features include food, activity, and blood glucose 
+monitoring, while maintaining an online store for buying diabetic-friendly 
+foods and supplements, and self-testing equipment 
+INR ~48 Cr 
+2FW·$55 
+Total
+capital
+earmarked for
+acquisition
+All
+cash
+continuity Here
+
+
+     
+                                             
+ 
+22 
+ 
+eKincare 
+eKincare is an online employee health benefits platform. It helps patients to 
+manage their healthcare records. Based on the analytics, the company 
+provides personalized healthcare plans to individuals.  
+INR ~20Cr 
+(FY21) 
+Afford Plan 
+Affordplan is a savings and financial planning platform for medical 
+expenses. Individuals can develop savings options, pick up services, 
+enrollment services, among others. The company also offers insights to 
+DFFHVVSDWLHQWV·GHPRJUDSKLFVUHGHHPEHQHILWVDQGFRQVXOWDWLRQVHUYLFHV 
+INR 7.2Cr 
+(FY20) 
+Healthplix 
+Healthplix provides an electronic medical record solution for chronic care 
+management, with features such as e-prescription generation, lab 
+management, billing, etc. It also has dashboards providing AI & machine 
+learning-based insights related to finance, marketing, test clinical 
+hypothesis, and treatment outcomes and risk. The company is currently 
+functional across 370 cities across 16+ specialties and has onboarded more 
+than 6000 doctors  
+INR 5.4Cr 
+(FY20) 
+Notes: (1) Expected to close in January 2021 
+ 
+Unit Economics 
+ 
+Steady State 
+Particulars 
+Revenue Lines 
+Device 
+Sales 
+Medicine 
+Sales (1) 
+Doctor 
+Consultations & 
+Subscriptions (2) 
+Diagnostic 
+Labs 
+Health and 
+Wellness 
+Revenue 
+Contribution 
+46% 
+3% 
+30% 
+11% 
+5% 
+Revenue 
+100% 
+100% 
+100% 
+100% 
+100% 
+GM 
+35% 
+3% 
+84% 
+45% 
+7% 
+CM1 
+26% 
+3% 
+84% 
+45 % 
+7% 
+ 
+Notes: (1) Not GMV - fixed take rate on orders routed through medicine delivery partners Pharmeasy and 1MG (2) Launched in 
+$XJ·; no substantial revenue.  
+(2) Subscription includes digital healthcare services bundled with Device sales and the margin of which depends upon utilization. 
+As per average utilization today of 15%, the GM has been calculated.  
+ 
+The company has operational costs that are semi-variable in nature (Operations team salaries) which the company 
+nets from Total Gross Margin to calculate CM1 of Company.  
+  
+Steady State 
+ 
+Particulars 
+Revenue Lines 
+Device Sales 
+Medicine 
+Sales(1) 
+Doctor 
+Consultations & 
+Subscriptions 
+Insurance 
+Diagnostic 
+Labs 
+Health 
+and 
+Wellness 
+Revenue 
+Contribution 
+24% 
+27% 
+23% 
+0.3% 
+7% 
+5% 
+Revenue 
+100% 
+100% 
+100% 
+100% 
+100% 
+100% 
+GM 
+48% 
+15% 
+68% 
+NA 
+31% 
+10% 
+CM1 
+40% 
+7% 
+68% 
+NA 
+31% 
+10% 
+Notes: (1) The company has started its own pharmacy aggregator model by partnering with local pharmacies for delivery 
+ 
+n
+⑦
+Aunt
+
+
+     
+                                             
+ 
+23 
+ 
+ 
+About Industry 
+ 
+Chronic Disease/ Non-Communicable Disease (NCDs) 
+ 
+NCDs are one of the major challenges for public health in the 21st century, not only in terms of human suffering they 
+cause but also the harm they inflict on the socioeconomic development of the country. NCDs kill approximately 41 
+million people (71% of global deaths) worldwide each year, including 14 million people who die too young between 
+the ages of 30 and 70. The majority of premature NCD deaths are preventable. 
+ 
+According to WHO projections, the total annual number of deaths from NCDs will increase to 55 million by 2030, if 
+timely interventions are not done for prevention and control of NCDs. 
+ 
+In India, nearly 5.8 million people (WHO report, 2015) die from NCDs (heart and lung diseases, stroke, cancer and 
+diabetes) every year or in other words 1 in 4 Indians has a risk of dying from an NCD before they reach the age of 70. 
+ 
+ 
+Source: Probability of death resulting from a chronic disease, WHO, 2014 
+ 
+ 
+Current Chronic Disease Management in India 
+ 
+(1) Awareness: There is very limited understanding of early symptoms of chronic diseases, leading to low 
+diagnosis rates. Chronic patients generally blame their genes for their state, and are not aware that a lifestyle 
+disorder can be conquered easily with small incremental interventions 
+ 
+
+
+     
+                                             
+ 
+24 
+ 
+ 
+ 
+Source: NATHEALTH, 2015 
+ 
+(2) Affordability: Healthcare is under-served and under-consumed in India because of a huge affordability barrier. 
+Insurance covers less than a fifth of our population, and out-of-pocket spending is considerably high. Moreover, 
+health insurance covers only inpatient (hospitalization) costs and completely excludes outpatient (doctor visit) 
+costs leading to breaks in treatment. 
+ 
+ 
+ 
+Source: PHFI, Planning Commission and World Bank, 2015 
+ 
+(3) Access: Very often patients miss their doctor follow-ups. Urban patients are constrained by time and non-urban 
+patients by distance limiting access to the doctor 
+ 
+
+
+     
+                                             
+ 
+25 
+ 
+ 
+ 
+Source: KPMG 
+ 
+eHealthcare in India 
+ 
+Improved access to healthcare providers, enhanced productivity and lower healthcare costs has accelerated the 
+penetration of eHealth in India which mainly includes the following segments ² telemedicine, epharmacy, online fitness 
+and wellness. In 2020, the size of the eHealth market is ~$2 bn (INR 14,850Cr). The market is expected to grow at an 
+annual growth rate of ~40% and reach ~$10 bn (INR 74,200Cr) in size between 2020 and 2025.  
+ 
+ 
+ 
+x 
+Telemedicine is the largest contributor to the market, contributing over 50% in 2020. The market is expected to 
+reach ~INR 38,000 cr by 2025 growing at rate of ~22%. 
+ 
+x 
+Epharmacy, although at a nascent stage, is expected to grow exponentially to reach ~INR 30,000 cr by 2025. 
+ 
+x 
+The Online Fitness and Wellness segment is underpenetrated and is expected to reach ~INR 7,000 cr by 2025. 
+ 
+(Source: INC42 eHealth Market Opportunity Report 2021) 
+2,800 
+5,600 
+6,300 
+8,400 
+10,500 
+14,000 
+19,600 
+27,300 
+37,800 
+53,200 
+74,200 
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+eHealth Market Size (INR Cr.)
+E
+
+
+     
+                                             
+ 
+26 
+ 
+ 
+,QGLD·VH+HDOWK0DUNHW/DQGVFDSH 
+ 
+ 
+ 
+Total Addressable Market 
+ 
+¾ Indian spends $100B (INR 7,50,000 Cr) per annum out-of-pocket on their health. 70% of all healthcare spend in 
+India is on Chronic Disease. 6RXUFH1DWLRQDO+HDOWK0LVVLRQ5HSRUW¶+RXVHKROG+HDOWK([SHQGLWXUHV· 
+ 
+ 
+ 
+ 
+ 
+¾ 400 million Indians suffer from Hypertension and Diabetes. There is ~50%peneteration of smartphones in 
+India, out of which 65% of these smartphones have OS which can support eHealthcare apps. Thus, 70 million 
+(400 million *50% *65%) people are the immediate Total Addressable Market (by Volume).  
+ 
+
+
+     
+                                             
+ 
+27 
+ 
+¾ These 70 million people are typically spending INR 50,000 per annum on managing their ailment. Thus, INR 
+3,50,000 Cr (70 million * INR 50,000) is the immediate Total Addressable Market by value. 
+ 
+ 
+ 
+ 
+eHealth Value Proposition  
+ 
+Telemedicine 
+ 
+¾ (DVLHUDFFHVVWRVSHFLDOLVWVDWWKHSDWLHQW·VFRQYHQLHQFHWKURXJK 
+¾ Access to quality healthcare in tier 2 and tier 3 cities 
+¾ Consumer reviews and ratings on the app 
+¾ Integrated offerings through a single platform 
+¾ Maintaining electronic health records (EHR) for better decision making and outcome based patient care 
+ 
+Epharmacy 
+ 
+¾ Access to higher variety 
+¾ Competitive prices and subscription-based models 
+¾ Doorstep delivery with rescheduling option and cold-chain management 
+¾ Online in-app support 
+ 
+ 
+Key Growth Enablers 
+ 
+¾ Consumer Behaviour: One of the key enablers for the growth in teleconsulting in India is the emergence of new 
+consumer behavior of digital consumption. Rapid uptake of tele consultation is driven by young population 
+accustomed to the app culture. With more smartphones having access to health apps, digital technology has the 
+potential to transform and enable delivery of virtual health care in a more convenient and effective manner.  
+ 
+¾ Demography and Disease Mix: ,QGLD·VFKDQJLQJGHPRJUDSKLFVZLWKHOGHUO\SRSXODWLRQH[SHFWHGWREe 20% of 
+total population in 2050 as compared to 8% in 2015 and the increasing incidence of chronic and lifestyle diseases 
+also strengthens the increasing adoption of tele consultation in the times to come. India has the second highest 
+number of diabetes cases in the world and 28% deaths occur due to heart diseases. 
+ 
+¾ COVID19 Impact: The COVID19 pandemic has led to massive expansion of tele-consulting and other eHealth 
+services as doctors and patients are restricted to interact in person.  
+ 
+
+
+     
+                                             
+ 
+28 
+ 
+ 
+ 
+¾ Policy and Regulatory Landscape: The Indian healthcare system is embracing digital technologies to fix 
+healthcare system-level constraints to increase its accessibility and enhance its affordability. With the release 
+of the telemedicine guidelines in March 2020 the Medical Council of India (MCI) has further confirmed the 
+growing need for teleconsultation. Similarly, Digital health records are likely to be mandated soon with the 
+advent of Ayushman Bharat, the Central Government Health Scheme (CGHS) and Employees' State Insurance 
+(ESI). The Niti Aayog has set up a National Health Stack (NHS) to build a digital health system and onboard 
+medical device makers, tele²medicine service providers, professional care service providers, and digital 
+healthcare systems providers. 
+ 
+¾ Government Initiatives: The Government of India is taking immediate action and targeting the greatest risk 
+factors contributing to NCDs, namely unhealthy diets, physical inactivity, tobacco and alcohol use and air 
+SROOXWLRQ,QOLQHZLWK:+2·V*OREDODFWLRQ plan for the prevention and control of NCDs 2013-2020, India is 
+the first country to develop specific national targets and indicators aimed at reducing the number of global 
+premature deaths from NCDs by 25% by 2025. A National Multisectoral Action Plan that outlines actions by 
+various sectors in addition to the health sector, to reduce the burden of NCDs and their risk factors, is in the 
+final stage of development 
+ 
+eHealth Emerging Trends  
+ 
+¾ Use of AI Integrated Software: Healthcare service providers are implementing AI-based software for a wide 
+range of purposes, from determining skin cancer from images to detecting pulmonary nodules and x-rays. 
+Such software can be used to decide the next steps or the best set of questions that can be asked to the patient 
+based on the acquired data and insights. A strong digital infrastructure with IoT integration across personal 
+devices, hospital and public healthcare databases is helping spur efficient growth 
+ 
+¾ Remote Healthcare Insurance Coverage: There is an increase in insurance coverage for remote healthcare 
+services and remote monitoring by insurance companies and government-administered programs, especially 
+since the pandemic. This would reduce healthcare costs and ensure healthcare even in adverse situations. 
+ 
+¾ Integrated Platform Offering: eHealth players have been focusing on diversifying their offerings by 
+integrating a suite of other healthcare services including telemedicine services, online diagnostics, and other 
+UHODWHGVHUYLFHV7KHUHIRUHDVLQJOHSODWIRUPFDQEHFRPHD¶RQH-VWRS·VROution for all healthcare related 
+services. There has even created a deluge of patient-related data, and doctors can decide on how to advise or 
+treat those patients timely and efficiently. 
+ 
+
+
+     
+                                             
+ 
+29 
+ 
+¾ Combining Brick-and-Mortar with Technology: With tier 2 and tier 3 cities facing shortages of primary care, 
+brick-and-mortar health centres equipped with technology can bridge the service gaps. This has proven 
+effective in delivering digital healthcare services to the underserved. 
+ 
+ 
+Competition: 
+ 
+Growth Startups  
+ 
+ 
+ 
+ 
+ 
+Year of 
+incorporation 
+2017 
+2015 
+2017 
+2008 
+2014 
+Business Model 
+B2B2C 
+B2C, B2B2C 
+B2C, B2B2C 
+B2C 
+B2B2C 
+Core Offerings 
+Telemedicine, 
+Appointment 
+Bookings 
+Telemedicine, 
+Corporate 
+health benefit 
+programs 
+Telemedicine, 
+Corporate 
+health benefit 
+programs 
+Appointment 
+bookings, 
+Telemedicine 
+Corporate 
+health benefit 
+programs 
+Stage  
+Series A 
+Series B 
+Series C 
+Series D 
+Series A 
+Investors 
+Kalaari, SOSV, 
+Manipal 
+Hospitals, 
+Fresco Capital, 
+Omphalos, 
+Omron, IPV 
+Rebright, 
+Bessemer, 
+Milliways, 
+JAFCO Asia, 
+InvAscent 
+Stellaris, 
+Prime, 
+Beenext, 
+Heritas, SBI 
+Investment 
+Sequoia, Tencent, 
+Matrix, Sofina, AIA 
+Group 
+Endiya 
+Partners, 
+Touchstone, 
+Ventureast, 
+Eight Roads 
+Total Equity 
+Raised (INR Cr) 
+64 
+802 
+628 
+1,887 
+110  
+Last Equity (INR 
+Cr) 
+96.9 
+500 ('HF·1) 
+361 -XO· 
+240 $XJ· 
+25.7 6HS· 
+Latest Revenue 
+(INR Cr) 
+94.8 (ARR 
+Oct· 
+432 
+$556HS· 
+12.2 
+(FY20) 
+129.9  
+(FY19) 
+32 (Q4 FY21 
+MRR) 
+Revenue w.r.t 
+valuation (INR 
+Cr) 
+14.5 (ARR 
+$SU· 
+432  
+(ARR Sep·1) 
+12.2 
+(FY20) 
+129.9  
+(FY19) 
+32 (Q4 FY21 
+MRR) 
+Valuation (INR 
+Cr) 
+150 
+3,200 (Dec·1) 
+2,060 -XO· 
+1,721 $XJ· 
+110 6HS· 
+Valuation/Reven
+ue  
+10.3 
+7.4 
+168.9 
+13.3 
+3.4 
+Valuation/ 
+Funding 
+2.3 
+3.9 
+3.3 
+0.9 
+4.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+     
+                                             
+ 
+30 
+ 
+Financial Analysis & Projections 
+ 
+Date of Incorporation: 2018 
+Auditor:  Nemani and Associates (Tier II Bangalore) 
+Audit Opinion for FY20: Unqualified Opinion. FY21 report expected by 15th December, 2021 as it is a CP to the 
+Equity infusion. 
+ 
+Historical Analysis 
+ 
+Particulars  
+(INR Cr) 
+Apr-21 
+May-21 
+Jun-21 
+Jul-21 
+Aug-21 
+Sep-21 
+Oct-21 
+FY22 
+YTD 
+GMV 
+1.21 
+1.15 
+0.67 
+1.50 
+2.70 
+5.79 
+7.88 
+20.90 
+Revenue 
+0.73 
+0.78 
+0.20 
+0.33 
+1.08 
+3.49 
+4.36 
+10.97 
+COGS 
+0.30 
+0.37 
+0.19 
+0.19 
+0.40 
+1.53 
+2.11 
+5.09 
+Gross Margin 
+0.42 
+0.41 
+0.01 
+0.14 
+0.69 
+1.96 
+2.24 
+5.88 
+Gross Margin % 
+58% 
+53% 
+6% 
+42% 
+63% 
+56% 
+51% 
+54% 
+Ops Salary 
+0.60 
+0.51 
+0.52 
+0.62 
+0.71 
+0.93 
+1.24 
+5.14 
+CM1 
+-0.17 
+-0.09 
+-0.51 
+-0.48 
+-0.02 
+1.03 
+1.00 
+0.74 
+CM1 % 
+-24% 
+-12% 
+-254% 
+-145% 
+-2% 
+29% 
+23% 
+7% 
+Performance 
+Marketing 
+0.64 
+0.59 
+0.33 
+0.56 
+1.50 
+3.84 
+4.25 
+11.71 
+CM2 
+-0.81 
+-0.68 
+-0.85 
+-1.04 
+-1.53 
+-2.82 
+-3.25 
+-10.98 
+CM2 % 
+-112% 
+-88% 
+-419% 
+-314% 
+-141% 
+-81% 
+-75% 
+-100% 
+Branding Expenses 
+0.21 
+0.11 
+0.15 
+0.29 
+0.38 
+0.65 
+0.65 
+2.44 
+Salaries 
+0.53 
+0.52 
+0.54 
+0.59 
+0.57 
+0.63 
+0.94 
+4.32 
+Other SG&A 
+0.33 
+0.31 
+0.46 
+0.47 
+0.67 
+0.79 
+1.56 
+4.58 
+EBITDA 
+-1.87 
+-1.62 
+-2.00 
+-2.39 
+-3.15 
+-4.88 
+-6.40 
+-22.32 
+EBITDA % 
+-257% 
+-208% 
+-992% 
+-721% 
+-291% 
+-140% 
+-147% 
+-204% 
+Other Income 
+0.02 
+0.03 
+0.05 
+-0.00 
+0.07 
+0.07 
+0.07 
+0.33 
+One-time expenses 
+0.98 
+1.05 
+0.18 
+- 
+- 
+- 
+0.42 
+2.64 
+PBT 
+-2.83 
+-2.65 
+-2.13 
+-2.39 
+-3.08 
+-4.80 
+-6.75 
+-24.63 
+PBT % 
+-389% 
+-340% 
+-1055% 
+-721% 
+-284% 
+-138% 
+-155% 
+-225% 
+ 
+Profit & Loss:  
+ 
+Particulars 
+Management Case 
+Stride Case 
+FY21 
+FY22 
+FY23 
+FY24 
+FY22 
+FY23 
+FY24 
+GMV 
+99.47 
+752.82 
+2,158.10 
+99.47 
+319.61 
+798.53 
+Revenue 
+87.43 
+752.82 
+2,158.10 
+56.94 
+319.61 
+798.53 
+COGS 
+51.26 
+460.77 
+1,252.80 
+31.30 
+198.41 
+488.42 
+Gross Margin 
+36.17 
+292.05 
+905.31 
+25.64 
+121.20 
+310.11 
+Gross Margin % 
+41% 
+39% 
+42% 
+45% 
+38% 
+39% 
+Ops Salary 
+3.27 
+48.05 
+112.02 
+3.27 
+19.18 
+15.97 
+CM1 
+32.90 
+244.00 
+793.29 
+22.37 
+102.02 
+294.14 
+CM1 % 
+38% 
+32% 
+37% 
+39% 
+32% 
+37% 
+Performance Marketing 
+39.75 
+223.78 
+577.38 
+39.75 
+92.69 
+214.01 
+CM2 
+-6.85 
+20.22 
+215.92 
+-17.38 
+9.33 
+80.13 
+CM2 % 
+-8% 
+3% 
+10% 
+-31% 
+3% 
+10% 
+Branding Expenses 
+33.44 
+168.00 
+112.50 
+33.44 
+71.40 
+41.63 
+Salaries 
+13.62 
+38.22 
+60.92 
+13.62 
+38.22 
+60.92 
+Other SG&A 
+7.98 
+17.54 
+18.93 
+7.98 
+17.54 
+34.94 
+EBITDA 
+-61.89 
+-203.54 
+23.56 
+-72.41 
+-117.83 
+-57.36 
+EBITDA % 
+-71% 
+-27% 
+1% 
+-127% 
+-37% 
+-7% 
+why
+has
+it
+F
+O
+
+
+     
+                                             
+ 
+31 
+ 
+Interest Cost 
+1.27 
+14.25 
+14.25 
+1.27 
+14.25 
+14.25 
+One-time expenses 
+2.56 
+6.50 
+6.50 
+2.56 
+6.50 
+6.50 
+PBT 
+-65.72 
+-224.29 
+2.81 
+-76.25 
+-138.58 
+-78.11 
+PBT % 
+-75% 
+-30% 
+0% 
+-134% 
+-43% 
+-10% 
+ 
+ 
+Balance Sheet: 
+ 
+ 
+ 
+Management Case 
+Stride Case 
+Particulars 
+FY21 
+FY22 
+FY23 
+FY24 
+FY22 
+FY23 
+FY24 
+LIABILITIES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Net worth 
+39.9 
+200.5 
+713.4 
+703.5 
+191.0 
+414.6 
+350.4 
+Long Term Borrowings 
+- 
+45.0 
+150.0 
+125.0 
+45.0 
+95.0 
+75.0 
+Current Liabilities 
+1.4 
+2.5 
+5.5 
+10.8 
+2.5 
+5.5 
+10.8 
+Other Payables 
+0.4 
+1.0 
+1.0 
+1.0 
+1.0 
+1.0 
+1.0 
+TOTAL 
+41.7 
+249.0 
+869.9 
+840.2 
+239.5 
+516.1 
+437.2 
+ASSETS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fixed Assets 
+2.8 
+3.0 
+3.8 
+4.5 
+3.0 
+3.8 
+4.5 
+Current Assets 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Receivables 
+0.8 
+1.2 
+2.2 
+4.5 
+1.2 
+2.2 
+4.5 
+Inventory 
+0.0 
+0.5 
+2.5 
+5.5 
+0.5 
+2.5 
+5.5 
+Cash and Cash Equivalents 
+36.8 
+243.0 
+860.2 
+824.4 
+233.5 
+506.3 
+421.4 
+Other Current Assets 
+1.3 
+1.3 
+1.3 
+1.3 
+1.3 
+1.3 
+1.3 
+TOTAL 
+41.7 
+249.0 
+869.9 
+840.2 
+239.5 
+516.1 
+437.2 
+ 
+ 
+Cash flow Statement: 
+ 
+Particulars (INR Cr) 
+ 
+Management Case 
+Stride Case 
+FY21 
+FY22 
+FY23 
+FY24 
+FY22 
+FY23 
+FY24 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Opening Cash 
+ 
+36.8 
+243.0 
+860.2 
+36.8 
+233.5 
+506.3 
+Cash flow from operating activities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EBITDA 
+ 
+(76.0) 
+(224.3) 
+2.8 
+(83.8) 
+(138.6) 
+(53.7) 
+Changes in working capital: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Change in TR 
+ 
+(0.4) 
+(1.0) 
+(2.3) 
+(0.4) 
+(1.0) 
+(2.3) 
+Change in Inventory 
+ 
+(0.4) 
+(2.1) 
+(3.0) 
+(0.4) 
+(2.1) 
+(3.0) 
+Change in Payables 
+ 
+1.1 
+3.0 
+5.3 
+1.1 
+3.0 
+5.3 
+Cashflow from Investment activities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Additions to Fixed Assets 
+ 
+0.3 
+0.7 
+0.8 
+(1.5) 
+0.7 
+0.8 
+Cashflow from Financing activities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Equity 
+ 
+238.0 
+750.0 
+- 
+238.0 
+375.0 
+- 
+Debt 
+ 
+45.0 
+105.0 
+(25.0) 
+45.0 
+50.0 
+(20.0) 
+Interest 
+ 
+(1.3) 
+(14.3) 
+(14.3) 
+(1.3) 
+(14.3) 
+(11.9) 
+Net Increase or Decrease 
+ 
+206.2 
+617.1 
+(35.7) 
+196.7 
+272.8 
+(84.9) 
+Closing Cash 
+ 
+243.0 
+860.2 
+824.4 
+233.5 
+506.3 
+421.4 
+ 
+ 
+ 
+ 
+ 
+O
+cuntlesht
+o
+
+
+     
+                                             
+ 
+32 
+ 
+Indicative Ratios: 
+Management Case 
+Stride Case 
+Particulars  
+FY21 
+FY22 
+FY23 
+FY24 
+FY22 
+FY23 
+FY24 
+Total Debt/NW 
+0.0% 
+22.4% 
+21.2% 
+18.0% 
+23.6% 
+22.9% 
+21.4% 
+Total Debt/Equity raised till date 
+0.0% 
+18.9% 
+20.0% 
+- 
+24.0% 
+25.3% 
+- 
+Total Debt/Valuation 
+0.0% 
+5.0% 
+4.7% 
+- 
+5.0% 
+5.9% 
+- 
+Current Ratio (ex-cash)  
+1.5 
+1.2 
+1.1 
+1.1 
+1.2 
+1.1 
+1.1 
+Months of runway 
+12 
+16 
+>24 
+>24 
+14 
+>24 
+>24 
+ 
+ 
+Working Capital: 
+Management Case 
+Stride Case 
+Particulars (INR Cr) 
+FY21 
+FY22 
+FY23 
+FY24 
+FY22 
+FY23 
+FY24 
+Amt Days Amt Days Amt Days Amt Days Amt Days Amt Days Amt Days 
+Inventory 
+0.0 
+ 
+0.5 
+3 
+2.5 
+2 
+5.5 
+0 
+0.5 
+4 
+2.5 
+5 
+5.5 
+4 
+Trade Receivables 
+0.8 
+ 
+1.2 
+5 
+2.2 
+1 
+4.5 
+1 
+1.2 
+8 
+2.2 
+3 
+4.5 
+2 
+Trade Payables 
+0.4 
+ 
+1.0 
+7 
+1.0 
+1 
+1.0 
+0 
+1.0 
+10 
+1.0 
+2 
+1.0 
+1 
+NWC 
+(Ex. OCL and ST Loans & 
+Advances) 
+0.4 
+- 
+0.6 
+1 
+3.7 
+2 
+9.0 
+0 
+0.6 
+2 
+3.7 
+5 
+9.0 
+5 
+ 
+Assumptions: 
+ 
+Particulars 
+Management Case 
+Stride Case 
+Revenue Growth 
+Aggressive assumptions -  
+Established revenue lines like Device 
+Sales, Medicines Delivery etc growth 
+at 20-25% MoM in Fy23, 10% in Fy24 
+Other new line items, Aggressive 
+growth after first 6 months at ~30% 
+Established revenue lines -  
+FY23: 10% MoM 
+FY24: 5% MoM 
+New revenue lines: 5-10% MoM 
+Branding (As a % of 
+Revenue) 
+FY23: 22% 
+FY24: 5% 
+Same as Management 
+Performance Marketing (As 
+a % of Revenue) 
+FY23: 29% 
+FY24: 27% 
+Same as Management 
+Debt Raise 
+Fy23: 130cr 
+FY24: NA 
+Fy23: 75cr 
+FY24: NA 
+Equity Raise 
+$100M i.e. INR 750cr in FY23 
+$50M i.e. INR 375cr in FY23 
+ 
+ 
+Warrant Upside 
+ 
+We have assumed the following: 
+¾ An interim equity round of $100M FY24 leading to a dilution of 14.5%. 
+¾ Revenue multiple of 6x, industry standard for telemedicine on a conservative basis. 
+¾ Growth in Revenue as per Stride case, as opposed to management case.  
+ 
+ 
+ 
+Disney
+
+
+     
+                                             
+ 
+33 
+ 
+  
+  
+Exit Revenue INR Cr (MRR) 
+Year of Exercise 
+post Maturity 
+Financial year 
+600 
+800 
+1000 
+1200 
+Jun-25 
+31.6% 
+35.6% 
+38.8% 
+38.8% 
+Jun-26 
+28.1% 
+31.2% 
+33.7% 
+33.7% 
+Jun-27 
+25.6% 
+28.1% 
+30.1% 
+30.1% 
+ 
+ 
+Risk and Mitigation 
+ 
+Risk 
+Mitigation 
+ 
+High burn and no clear path to profitability 
+ 
+On a monthly GMV of ~INR 8 Cr, the 
+company has a monthly burn of ~INR 6.8 Cr 
+2FW·due to discounts and customer 
+acquisition costs 
+ 
+ 
+¾ Phable is focusing strongly on customer acquisition 
+and retention which has resulted in a high monthly 
+burn of ~INR 6.7 Cr. However, the company is adding 
+over 1.5 lakh users each month and has added ~6 lakh 
+users in the last 6 month through a successful 
+customer acquisition and marketing strategy. 
+ 
+¾ Phable is raising $17 Mn ins series B with infusion 
+H[SHFWHGLQ'HF·)XUWKHUPRUHWKHFRPSDQ\LVLQ
+advanced discussions to raise a $80-$100 Mn round in 
+Q4FY22/FY23. This would allow the company to 
+sustain its P&L burn comfortably 
+ 
+ 
+ 
+No clear product market fit 
+ 
+Phable has started monetizing recently in 
+)HE·DQGFXUUHQWO\KDVPXOWLSOHOLQHVRI
+revenue with no clear product market fit 
+ 
+¾ Phable is creating a niche in the chronic disease 
+management segment by the being the first 
+HealthTech player to focus on this space. The 
+company is leveraging a unique acquisition model to 
+drive customer as well as doctor engagement and is in 
+a strong position to be a one stop solution for all 
+healthcare needs of chronic disease patients. 
+ 
+¾ The company is building a suite of services targeted 
+towards the ecosystem of doctors, clinics, and chronic 
+disease patients.  Therefore, the potential to be highly 
+sticky and to acquire a larger wallet share of the entire 
+ecosystem is high.  
+ 
+ 
+Investor quality and scalability 
+ 
+The current investors lack the appetite to lead 
+future rounds of equity in the business 
+ 
+ 
+¾ Phable is raising $17 Mn in December from new 
+investor Aflac Ventures ($400 Mn international 
+fund) and is in advanced discussions to raise a 
+larger equity round in the range of  $80-100 Mn. In 
+the subsequent round, the company is seeing 
+significant interest from large VCs. This would 
+give them access to a larger pool of capital to fund 
+
+
+     
+                                             
+ 
+34 
+ 
+their customer acquisition and strategic 
+acquisitions in the near future.  
+ 
+ 
+ 
+Rationale for Recommendation 
+ 
+Debt Protection 
+Phable is raising $17 mn (~INR 125 Cr) in equity led by Kalaari ($7 Mn) and Aflac Ventures ($5 Mn) with 
+participation from Omron and Manipal Hospitals with infusion . The company currently has ~INR 20 Cr in cash and 
+FDVKHTXLYDOHQWVDQGWKHHTXLW\LQIXVLRQLVH[SHFWHGLQ'HFHPEHU·$GGLWLRQDOO\WKHFRPSDQ\LVLQDGYDQFHG
+discussions to raise ~$80-$100 Mn  from new and existing investors with the closure expected in Q)<6WULGH·V
+facility is split into two tranches of INR 10 Cr (T1) and INR 25 Cr (T2). T1 will be disbursed pre-equity infusion while 
+T2 will be disbursed along with the $17 Mn equity infusion.  
+ 
+ 
+Quality Founders and Experienced Team 
+Both founders have experience across product, finance and engineering. They have worked at organisations such as 
+6XPLWLVDVHFRQGWLPHHQWUHSUHQHXUZKRIRXQGHG.ULVW\·VNLWFKHQDIRRGWHFKstartup, which was later acquired by 
+Cure.Fit at a premium. The founders have 10+ years of experience working at organisations such as Kantar, 
+Borderless Access, Deloitte, etc. 
+ 
+Phable has built a robust team of KMPs hiring experienced personnel from Healthcare, Consumer, IT, and Finance 
+from organisations such as Apollo, Practo, $VLD+HDOWKFDUH&LVFR%\MX·V$VLDQ3DLQWV etc. 
+ 
+ 
+Unique Customer Acquisition Proposition 
+Phable acquires users by partnering with doctors and clinics. For doctors, Phable serves as a free to use end-to-end 
+clinic management platform for managing appointments, health records, tele-consultation, etc. which incentivizes 
+doctors to adopt the platform. The doctors can monitor their patients through the Phable app by monitoring their 
+progress, vitals, past health records, etc. while the patients use the app to store their medical records, vitals 
+monitoring (through IoT connected medical devices). 
+ 
+This helps in tapping into a large pool of chronic disease patients and drive engagement. By creating a By focusing on 
+doctor adoption, the company has seen a strong network effect which can be seen in the consistent decrease in CAC 
+from ~INR 240 per user to ~INR 40 per user.  
+ 
+ 
+ 
+Large TAM and Sticky Customer Base 
+India has the highest incidence of chronic diseases globally with 400 million Indians suffering from hypertension and 
+diabetes. Consequently, 70% of all healthcare spend of $100B (INR 7.5 lakh Cr) in India is on chronic disease care. 
+Chronic diseases require higher spend on specialised medication, devices for monitoring and disease management 
+programs. By being the first healthcare platform to focus on CDM, Phable is in a strong position to create a strong 
+digital healthcare network for these patients. The company has already created a strong network of providers across 
+devices, insurance, medicines, etc. which would enable them to capture a large wallet share from these customers. 
+The company has also shown a consistent increase in daily and weekly active users (~43k and ~30.9k respectively) 
+and high retention of patients acquired through doctors (63% retention in users acquires 12 months ago). 
+
+
+     
+                                             
+ 
+35 
+ 
+ 
+Furthermore, the company is building products for doctors and clinics, in addition to patients, who are already on the 
+platform and has over 4,000 active doctors using Phable already. 
+ 
+Reference Checks 
+ 
+ 
+Saurabh Pandey, CEO and Co-founder, Akna Medical (Now Pharmeasy) 
+´Chronic care is a very sticky segment and traditionally, the supply chain for medicines, quality lab tests and doctors has been 
+found missing in India. There are multiple new age digital solutions that have been built in this space over the last 4-5 years and 
+it was only a matter of time before a digital healthcare platform was born connecting the entire ecosystem. At Pharmeasy as well, 
+we will look towards this segment through means of organic or inorganic expansion but Phable currently stands to obtain a first-
+mover advantageµ 
+ 
+Ramesh Kannan, Partner, Somerset Indus Healthcare Fund  
+´7HOHPHGLFLQHRQDVWDQGDORQHEDVLVLVQRWSURILWDEOHDQGPD\QRWEHRQDVWHDG\VWDWHEDVLVHLWKHUThe only profitable segments 
+can be surgery and Lab tests (Diagnostics). Chronic care management systems in India are currently broken in India and hence, 
+a connected health system can go a long way to solving the problem of disconnection between a doctor and a chronic patient.Due 
+to a raise in ticket sizes and the risk at hand (life), such a digital model has a good chance of showing profitability in the steady 
+stateµ 
+niff
+
+
+2, Five
+Phable VENTURES
+Fapaal Sa December BAL
+security
+:
+
+
+Grate vel ORE
+Company Wo Share all noi, Found minutes & other neces boand meting mate wo Side Venture
+vita dayerrom such board meting
+Partly Paid OCPS Valuation
+Investor hall be ete to sutscrite to ary paid-up shares othe extent of 7% ofthe Investment Amount which
+when erie at any Sine during the Bees Period (years rom the Matury dat th lat ache or en of he
+fund if whichever ltr) shal eonvert into equivalent equity shares ofthe Borower apart the per share Price
+Shareholding Pattern
+Shareholding Pattern of Terrals Technologies Pvt. Ltd (Pre-Series B) Fret | 12
+[FoundenyPromotes PY
+[Sumiesinia [aig [rr
+[Mkesk Bansal [apg [a
+a
+[Omron [ata [Owen Ventures Coed | — or —]
+[stewie PP
+[eso
+Ores 7 a EC
+Tota ito. 088
+Background of the Founders
+Trofesional Backgroun! i vets, 3 vats wih Pb
+Sumit Sinha > Krlatys Kiten Conder (161)
+ Bondertess Access Pants Pvt Lt Senior Dietor (12°16)
+J Datote Contig Contant (122)
+% Pvalueseve Manage (0711)
+2 ICiCh Assn ange (06-07)
+bik Educational Background:
+Cofaniere CED Seach, Computer Science (Cass of 206) —> ide.
+fake 2
+2
+
+
+ge. STRIDE.
+Phable VENTURES
+‘Mukesh Bansal Professional Background (15+ years, 3+ years with Phable
+Borderless Access Panels Pvt Ltd, Director ~ Operations &
+Research Services (13-18)
+> Kantar Operations, Manager ~ Research Services (06-13)
+S Educational Background:
+\ MSc. (Hons) Mathematics, BE. (Hons) Civil
+See BITS Pilani (Clas of 2005)
+Organisation Chart:
+=~ ===
+Key Management Personnel: —~ Tam Lode werk in ems frelevenl” orfiemer
+‘Professional Background (14+ years, I+ years with Phable
+Strategie Solutions Group, Independent Consultant (19-20)
+Venkatesh Walajabad |» LogN/SchoolMint, Divector Of Engineering ('13-'19)
+> Apollo Group, Senior Sofware Engineer (10-13)
+IG InfoTech, Senior Sofevure Developer 08-10)
+> Apollo Group, IT Engineer I (07-08)
+> Brahma Consulting Services, Programmer Analyst (05-07)
+Educational Background:
+MS. Electrical Engineering
+Engineering Manager Southern ins University, Carbondale (Class of 204)
+> BE. Electrical & Electronics Engineering
+Vellore Institute of Technology (Class of 2002)
+‘Professional Background (20+ years, les than a year with Phable
+Healthcare Startup, Engineering Manager (20)
+Bhavesh Jardosh > Cisco Systems, IT Manager (06-19)
+> Driving Advertising, Senior SoPtare Engineer (03-06)
+> Silverion Inc. Senior Sore Engineer (02-05)
+> BetaSphere, Softoare Engineer (01-02)
+> Hitek Consulting, Consultant ('00-01)
+% Tasaa Netcom, Softoare Engineer (98-'00)
+Hl | Educational Background:
+Engineering Manager > PGP Artificial Intelligence
+‘The University of Texas at Austin - Red McCombs School of Busines (Class of
+2020)
+3
+
+
+ge. STRIDE.
+Phable VENTURES
+> PGD in Software Technology
+[National Center fr Softoare Technology (Clas of 1998)
+> BSc. Statistics
+University of Mumbai (Class of 1994)
+‘Professional Background (9+ years, 1+ years with Phable
+Sonus, Product Manager (1419)
+Antariksh Pandey Infosys, Senior Systems Engineer (10-14)
+Fem, | educational Background:
+5 i > MBA
+a IM Bangalore (Class of 220)
+7 | > International Business
+a TE Business School (Class of 2019)
+“Head of Product > BEECE
+Insitute OF Tecnology And Management (Class of 2010)
+‘Chayan Kapoor | Professional Background (5+ vears, + years with Phable)
+co > Practo, Senior Territory Sales Manager (17-18)
+> RankHligher:n, Business Development Manager ("16- 17)
+> BYJUs, Business Development Asscite (16)
+Educational Background:
+B.Tech. Computer Science
+= Manas Rack International University, Faridabad (Class of 2016)
+‘Professional Background (14+ years, les than a year with Phable
+> Humain Health, Senior Manage/ Head Business Finance (19-20)
+[Abhiject Sharma > Asia Healthcare Holdings, Head of internal Audit (17-19)
+: > Columbia Asia Hospitals, Senior Manager Finance (13-17)
+> KPMG India, Manager (12-13)
+E > EY, Assistent Manager (08-12)
+| > Deloitte India, Assistant Manager (07-08)
+Educational Background:
+> EGMP, Executive MBA
+Head of Finance IM Bangalore (Class of 2019)
+> Chartered Accountant
+ICAI (Class of 2006)
+‘Professional Background (124 years, 2+ vears with Phable
+|_Mary Kumar Borderless Access, Maviager ~ HREP (‘15-19)
+ce 5 Utopia Global, Senior HR = Specialist ('11-'15)
+&. Accenture, Senior Analyst (08-'T1)
+; Educational Background:
+MBA, HI Finance
+Periyar University (Class of 2008)
+Flead of HR
+‘rofessional Background (3+ vears, 1+ years with Phable
+Asian Paints, Manager ~ Strategic Initiatives (19-20)
+Nikhil Gupta % ICICI Bank, Manager ~Infnstrcture Financing (18)
+> HARMAN International, Associate Softuure Engineer (15-16)
+4
+
+
+ge. STRIDE.
+Phable VENTURES
+Educational Background:
+> MBA
+LIT Bombay - Shailesh J. Mehta Schoo of Managenent (Clas of 2018)
+> Bech. Computer Science
+1m Institut of Engineering and Tecnology (Ces of 2015)
+Busines Strategist
+‘Professional Background (St vears, 1+ years with Phable
+Dr. Suhas Patil  Sahyadei Hospitals, Emergency Physician (17-18)
+> Government of Maharashtra, Medial Officer (15.17)
+> Aastha Hospital, Resident Doctor (12-15)
+Educational Background:
+> MBA - Executive
+1M Lucknow (Class of 2019)
+> MBBS
+Manager ~ Medial Strategy Loker Tilak Medical College, ion Mumbai (Class of 2009)
+Board Composition:
+‘Torrals Technologies Pvt. Ltd. has appointed four directors
++ Sumit Sinha, Co-Founder & CEO - Phahle
++ Mukesh Kumar Bansal, Co-Founder - Phable
++ Mitesh Daga, Managing Director ~ TPG Global & Board Meer - Manipal Health Enterprises Po, Lid
++ William Bao Bean, General Parter- SOSV
+Employee split:
+[Finance
+[Digital
+[Product 6
+[Management Office |
+Doctor Onboarding Operations
+‘Technology a
+[Grand Total |
+5
+
+
+ge. STRIDE.
+Phable veNTURES
+Equity Funding Gill date and Valuation movement:
+am: wes Kalaari Capital, SOSV, Fresco, Manipal
+SOBV, Betatron, Fresco, Lets Venture,
+ee ee
+[Augag [Seed 9 [90 sosv
+Julis | seed | 21 | 100 | Omphalos Ventures LEP
+moran |] we
+ot" compan aig Sis Hof S17 Ma (INR 128 Ci pea cape DGC, Sei Aasg a We od at by
+the eof January 2022 & ray ga igh as $40 Min culate. The current Seis round wl bea conertile round sale a 20%
+Alsou to serie C(espested close QU EY23).
+Key Investors: Pubu?
+5 imwerled “oo sl
+ee Kaen her Lad)
+Kalaari Capital:
+Founded in 2006 by Vani Kola, Kalaari Capital is an Early-stage technology-focused venture capital firm that invests
+inlndiaand US. The generally enter at Seed, Pre-Series A and Series. rounds to help companies grow and to empower
+‘visionary entrepreneurs to build unique solutions.
+‘They launched ther first fund of $190 million backed by Silicon Valley venture capital firm New Enterprise Associates
+(NEA), Kalaari has been in the market to raise is fourth fund for over a few years, In January 2019, the fund was
+targeting $200 million (infusion made by Reliance). Kalaaei had last raised a fund in 2012 (160 million fund, Kalaari
+Capital Partners Il) and in 2015 when it mopped $290 million (Kalaari Capital Partners Ill and Kalaari Capital Partners
+Opportunity Fund),
+Notable exits are: Embibe, Zivame, Haptik, Urban Ladder (All 4 acquire by Relionee), Dream 11 (partial ext), Myntra,
+Snapdeal, Viacom.
+‘The company has invested in more than 100 companies till date with an average ticket size of $1-3 million. Some of ts
+notable investments are: Dream 1, SimpliLear, Skit, Koo, MyGlamm, Elastic Run, Vogo, StanPlus, MilkBasket et.
+‘The company has recently launched $10 million CXXO fund to invest in startups that have women founders as key
+decision-makers
+[1 [Dwamm | 2ios | Mumbai | Saas | Sens | 37500 |
+[2 [cuter [21s angalore | 3408 | Series | 6,060 |
+[3 | MeaPius [2006 iyderabad [2.018 | Series [3195]
+[elastic Run aon Pane ors series ais
+[SO [Wingo Paar New Dethieos Series C3505 |
+[6 [Koo App [2019 [Bangalore 31s series [ass
+[7 [eatthpoe [at Bangatore [176 | series 8 [2519]
+[8 [fumborait [2015 | Bangalore [a3 Series [855
+[9 [luestone [2011 | Bangalore | ss7| Series [750 |
+[a0 [Stanpius [ate | Hyderabad [6 seed
+6
+
+
+g, sThve
+Phable VENTURES
+SO8V!
+Founded in 1955, by company’s Managing Partner Sean O'Sulivan lasing the IO of Mapa tart heo-ounded
+tht pionered comer sed street mapping), SOSY i a plobel Ventre capital fie that operates erly sage startup
+development programs
+SOSV's programs are focused on two broad areas, The fists revolutionary technology that promises the betterment
+tf hurmaruty and he planet The second is eros-border market notably in Asa, that ar ripe for explosive growth
+SOSV join seed series A and ltr rounds While providing fourders with ongoing support and communi
+SOSV's programs include harware-riented HAX and lfescience driven IndieBio. Both offer deep technical expertise
+tsiteas wells wellequipped lab and fabrication faites. At Chinaccleator and MOX, math entry and product
+development experts help entepreneurs win cross-border market opportunities across Asia, SOs latest program,
+‘la, fosters new players in the Blockchain ecosystem, Te five programs work with 135 new companies each ear, As
+oF April 2021, SOBV had more than 1000 portfolio companies and $970 malin in assets under management
+Among the top companies in SOV’ portfolio are NotCo, Prfet Day, Upside Foods (ka Memphis Meat), Yeeight,
+Opentrons,Shopal Seapask, BitNIEX and API, SOSV has invested in more than nan startups inlding Coutot
+Vidyakul Money Club, Tock, Woodly ete
+OSV has aise four Funds since its inception, inching a $277 million early-stage fund that it closed in 2019 and is
+actively investing from right now. Now, to complement these fend, the organization has ase S100 malin for what
+its calling “select fn” that’s meant to help SOSV maintain is ro rata stake in some of ts breakaway portilio
+companies
+‘Te new fund is expected to write checks of betwen $2 milion and $5 million and even upto $10 milion — or 10% of
+the fund, per SOSVs agreerment with ts investors,
+re Toil Fanding [Company ated Valin
+Year INK Crores : INR Crowe
+[2 [contort | Mumbst [sins | senesa| S|
+pra Site) Mbt ag0 sie ms
+5 ak Bit Gurznon St Sed 27
+[4 (ene [ans chasis [ eet sees [no]
+[5 [Wewely ar angles [a7 see [0
+[Pena fas tabs [3 se]
+[7 [ensoxmone | [ans Frangione [83 [set [re]
+a |
+[9 [Paytoosie [Pate FBangtore [6 | sed fs]
+1 Siero Sis) Manis 7 Sed 52
+td GE ae
+Aflac Ventures (incoming)
+Founded in 2017 and based in USA, AflacGlobal Ventures the corporate venture arm of Aflac (A Forte 150conpany
+providing ancl roteron to more an 30 milion people wore), The company invests in Youngstars that develop
+“The company also as a subsidiary called ‘Aflac Innovation Partners’ whichis headquartered i Japan. Established in
+2018, A partners with startup companies in HealthTech and IrourTech, aiming to create new. AFLAC business,
+Strengthen existing business antl contribute tothe further growth of its cohort of elaborates
+Aflac Global Ventures hasan operating fund of $400 million, out of which both AFV and ATP fund startups across
+geographies
+7
+
+
+eg. STRoe
+Phable venluREs
+Founda Toad Funding Ties vahaton
+[xs Jeane far’ [o [ Watery E as
+[2 rcog [ants ingore [30 [Series [a0
+[2 [Celt [ania ated {Fading Rae | =
+[3_—_[Singhfe [amis singapore [195 [sees =
+[8 [Cait as pans See] =
+[5 [Between [anos ass =
+[Unis ais apa [5 Series | =
+[7 [etka [aig pan [Series a] =
+[8 [Pagaya [2008 usa [095 Series | =
+[9 [ACT Genomies [and [taiwan [ast | seres | =
+10 [Rakesh 216 Tapan 2s Sees B 5
+Strategic Investors:
+Manipal Hospitals:
+Founded in 1953 as a pat of Manipal Education System, Manipal Hospital is spread across 15 locations in India. The
+first branch of Manipal Hospitals was started in 191 in Bengaluru, The branch is a 600-bed Quaternary are faiity
+and houses over 60 specialties. The Hospital Chain has mised INR 6,300 C+ from the likes of NI, TPG, Temasek,
+‘Ture North and Kotak PE Group.
+In April 2019, Manipal Hospitals purchased Medanta Hospitals shares fr INR.5,800 Cr. Apart from Phable, Manipal
+Hospitals has als invested in SRL Diagnostic (Sens B, Unislosed) and Ankur Healthcare (Seis A, INR 30Cr)
+omnon:
+Founded in 1999, OMRON isa global leader inthe field of automation based on its core technology of sensing and
+contol and has created various innovation that are the forerunners of the world, They focus on four domaine of
+“Factory Automation’, "Healthcare, “Mobility” and "Energy Management. They are prsent in 120 counties and
+regions around the world
+‘The company has made 7 investments and 4 acquisitions tl date out of which only Phable is their only Indian
+investment EOE revs
+Key Conclusion 2
+‘The company has strong ealy and growth stage focused investors on the cap table sor (SOS and Kay nd
+strategie investors like Manipal Hospitals and OMRON, that can support the company iN farther round and
+fsowth The company is planning to raise “INR 225-200 fn Novernber His Fearon both nee (hwo cole) and
+Phable ha its new equity round coming in December 2021, with infusion from Kalaari Capital (S74), OMRON ($2),
+Aflac Ventures ($3) and S2M from exiting investors re
+a * a
+wh - 9 .
+cent HT tl
+he 1 >
+ony ot pice - pak
+eee nT a i ee)
+or hte looker week =) me Saeed
+8
+
+
+@, Ties
+Phable VENTURES
+.
+
+
+ge. STRIDE.
+Phable VENTURES
+Phable has built fallstack two-sided technology platorm For patients as well as doctors, For pation, eserves asa
+‘one-stop platform for doctor consultations, document digital health records, bok lab test, order medicines and
+devices, access disease specific content, and care management through alerts, reminders, etc. For doctors, it serves as
+8 single platform for bookings management, document patient records and history, paient engagement, and real-
+time patient tracking
+Phable's platform has three layers - Transactions, Data, and Data-Driven Insights
+P) 8
+Doctors Ja g S Billy —_—~Patients
+‘+ Transactions: All healthcare related products and services for doctors (clinic management billing, tle-
+consultations, ete) and patients (medicines, devices, labs tele-consultations, insurance, etc)
+‘+ Data: Collecting static data (prescriptions, lab tests, etc.) through platform bookings and longitudinal data
+(biometrics, ete) through loT connected medical devices (third part).
+‘+ Data-Driven Insights: Targeted content, rsk scoring, personalized therapy, and disease management by
+Business Overview
+FY21YTD Revenue Movement
+4"
+b 1 \ we ¥
+o7 er
+ap My ney Aunt Septem” Osh
+Fr
+
+
+1
+ge. sin Meee AMY TRpe
+Phable we BD ag SS veal es
+——
+Phable sarid GSonaizng reconly in February SISTho app i Carenly fee to use for doctors. Silly, paWon
+doctor engageman ls Fee HOWavar, Te Company generates revenue from any transactions made onthe app
+{medicine delivery, appointment bookings, medical devices, subscriptions, et)
+Ina span of a~10 month, the company has reached a monthly GMV of ~INR 7.9 Cr. This is largely driven by
+{meting an device sale that account for ~75% of CMV in FY22 YTD.
+Revenue Streams
+Currently, the company has the following revenue streams
+1. Medicine Sales: Phable has a B2B anda B2C busines in medicine:
+> BRB Medicine Procurement: Phable provided B28 procurement platform o pharmacies to procute jy
+tedicine inventory directly from manufacturers and wholesales. However the contribution to GMV in
+insignificant (<28) and the vertical wil be discontinued in the corning months
+> BAC E-Pharmacy: Users can order madicines through the Phable app. The company hus partnered with
+{mg and Pharmeasy to provide thee services. However, the company is in the process of building in-
+house eapablies by partnering with local pharmacies (plot launched in Bangalore
+2. Device Sales Users can order medical devices such as glucometer, BP monitor, personal ECG device, et. The
+company has partnered with Acou-Check, Omran (isting ivestor, Plate to disibue thee products
+through the Phable app. These smart device are tangeted towards chronic dseave patents and cn be synotd
+with the Phable app for real-time tracking by doctors
+3. Subscriptions: Users can subscribe to healthcare plans, There are diferent plans avalablefor different chronic
+diseases, usualy a combination ofa device paired with other services. For example, the Diabetes Care Package’
+includes a ghucometer, diabetes expert assessment, unlimited doctor consultations, personalized fitness sessions,
+tte
+4. Diagnostic Labs: Users can book diagnostic ests The company has partnered with diagnostic lbs such as RL
+Diagnostics, Thyrocare, Healthians, ec. to provide these services
+$. Doctor Consultations: Users cn book appointments or tle-contultations with porner doctors,
+6 Heath and Wellness: Users con buy healthy food supplements and has partnered with brands such as True
+Elements that offers healthy breakfast options and snacks,
+7. Corporate Wellness: Phable as started partnering with corporates to provide comprehensive corporate wellness
+ple tots employees
+4 Consumer Insurance: Phabe as porinered with Care Insurance to provide insurance plan to were, The plana
+include health inurance from Care coupled with services offered by Phable suchas doctor consalttion, health
+management programs, discounts on lab tests, et
+u
+
+
+2, Five
+Phable VENTURES
+re
+oe
+ties
+took act a
+ot
+bese
+GUM strategy
+me
+2
+
+
+g, STRoe
+Phable VENTURES
+Growin Uses
+Apo May2 Juni Juli Aug Zi
+Ths 67 zat
+[raion | | oem [ee [we |e |
+‘Number of Transactions and AOV Chart MoM
+wa
+as
+= = = = =
+peer Mayas hunt yut2t pen
+meV a Number of Tanndins
+“The chronic dsease patients inially use Phable for ongoing engagement with their doctors, documenting health
+records, an monitoring thee vitals trough smart devices Ths ives change in consumer behavior as users begin
+to transact onthe app (medicines, lb bookings, omeulttions, fc) in addition to using the app merely for doctor
+engagement an tacking This changing consumer behavior captured inthe growing usr base who ae aso
+tranecting as well a the MoM increacin AOV. Slace most pation are chron daeace patients, hey require
+medial devies and specialized medicines due to which the AOV is high
+3
+
+
+2, Toe
+Phable jh. t tedev 7 vel ORE
+Tow Customer CAC due to Doctor Acquisition Channel
+
+Acquiring patients through doctors have created a strong network effect amongst patients and the doctor community
+alike. This customer acquisition approach has ed to consistent drop in CAC across doctors and patients:
+
+[Pw | Tan [Tm "a6 [ae [eso [| Jan [ar [a [|| | ||
+
+i Py 20 | 20 20 bt an | at Bt
+[BE _ [sam | |r [a nr |> | [ |
+[Usercac [an [iss as [os [as [as se se os a Po os mo
+"Teed wa al gps pu
+
+Ji. 15 months, the CAC per doctor and user has come down from INR 18,244 and INR 241 in Jun'20 to INR 351 and
+INR for doctors and users, respectively. More importantly, Phable has seen maintained robust customer retention
+while acquiring customers at sale:
+
+Japeed
+Overall User Retention : ton
+Bor v rier
+
+[Bowens | Aid| a | "an | Jar | ar | Par |“ [Mar a ar |S | S| S|
+Download | Added 20 Et a [Sot | Jor | or | “ae | oP
+
+| tiorc20 | 17,007 | roo | s5% | 67% | esx | cox | son | som | ssx | sos {aos | azn | aan |
+| peca0 | soos! [roo | sx [mix [eax [som | son [sin [sas | 49x [sex [ae |
+[Finan] vzsis | [| aco [sis [or [osm | wom [son | son | ss [sow | a7m |
+[Frepor [wasn | Pace [sas [srs | ae [oom [oon [oan [oom [sa |
+[Fatwear | sso [TP too [on [se [ron [758 [cow [ean [son |
+[Papeat | si20 [roo Pon [son ses [708 [min [oa |
+[impor | esers[ | |TV aoo% [sass [sos [es | oze | san |
+[amcor | zs.950[ Poo sss [six [rs | os |
+ee
+[Pampa teas [TT coe Ts [ro |
+To
+= BT
+Phable has retained ~45% of the customers acquired through both channels (Digital and Doctor channels).
+COnboarding users using the doctor channel has led to even higher retention driven by doctor-patient engagement:
+‘User Retention (Doctor Channel)
+
+[ dewnons [adie | at | “ar |" [8 [oumae| ar [or | “a | S| Se |
+download | Added Et 2
+
+[—Jaezi [2578 [nox [sox [ass [ax [vex [7x | rsx | 7an [ore [oa]
+[rebon[sisa0 [Fans sae [aoe [ae [ox ara ran [anor |
+a
+a 2
+a
+a
+a a a a
+a a A ZZ
+[Sep-at foi [Ps]
+ea
+More importantly, there is strong momentum inthe active user base over the last 12 months
+
+4
+
+
+ge. STRIDE.
+Phable VENTURES
+wt
+‘Active Users (005) 7 Me
+a ma ee oS
+oS
+wee
+my
+“ er er ed wa)
+Nowa) Dyed) JanaiFeh2i Msi Apedl MaySt Jana Jal) Aug Sepa cuai
+te: Acie users an dine as wers having a st ne eson on th ap per dye and ont
+While monthly active users have been stagnant at~.1 lakh, weekly active users have gone up by ~40% to ~#4,000
+while daily active users have gone up by "95% 1o~31,000. This isa strong indicator of increase in adoption by the
+active users overtime
+[ree [ [Pa [ar ar [ar | fa [ar ar [ar | | Sr | S|
+| ‘a | Sat | or | ot | or
+[paumau | tx [ax | aim | asx | 21% | 23% | 25% | 20% | 23x [26% | 27m | 29% |
+[wauamau | 27% [27x [eax [arm [29% | 20% Tae [30x [33x [sre | aze | aon |
+Customer Ratings Analysis
+peeen--e
+t MediBi mfine
+1 Qravie | SMedBew! EF
+t
+2 =a —{.. — S$ . — =. —
+$1 rumpsazsun | (owlontinier | ‘oaionsaisr | Gnotor203553. | Rt 45Stay
+1 oun Dooniic txts | Downie te | _Doonimte sate _| "“Downlae t00k
+i se |b =| |o=_6 a= 0
+HO Os= O= 8 Os
+PEt katng 408tare Rating: 37 Stars Rating: 43 Stars Rating: 40 tars Rating: 3.6 Stars
+3 aaatonsoneien) | Casaton ssRavices) | Baton 55 Revie) | Caton trevor) | (met 37 Revie)
+Conclusion:
+15
+
+
+g, STs
+Phable VENTURES
+Phable hava favourable online rating compared to as of the eating Medicare and healihcare segments The naar
+downloads are more than 1 million and ~8500 have given their reviews to aggregate a cumulative of 42 on Google
+Play Store. Even on Glassdoor,~80% of employees recommend itas a good place of work.
+Supply Partners
+Phable hus created a network of healthcare partners across doctors, hospitals, device manufacturers, consumables,
+tte. tocater to comprehensive healthcare requirements of all users on the platform, For doctors, the Phable platform
+Serves asa clini management software to manage bookings, tele consultations, «bookings, bling, ee. which serves
+as hook for doctors to adopt Phable.
+Phable’s Partner Network
+Nosotals ManipalHospitals Fortis
+‘ °* B
+snes AcvOues OMRON ELAR AveCor itt cams ein I
+ee Me
+esi OQ Garo) osve Be
+Atana icontm —- $CHSi aS ES)
+Stowe ~~ AEG gratin StL, Toee EM ung Se RR
+Doctor Acquisition Strategy
+‘The platform relies on doctor partnership to acquire customers and has ~6A00 doctor partners on its platform,
+Doctors are acquired mostly through an on-ground sles team (fest on strect) and through digital marketing,
+However feet on street continues tobe the dominant source of acquisition for doctors (&-90% acquisitions). With
+higher acceptability and scale in busines, Phable has acquired ~3,00 doctors inthe last 12 months
+Most Active Doctors on Phable
+eS
+Years of Experience: 15 years
+Practice Atta Geral Physician
+Work Experience
+Dr. Oliver Rodrigues > Seoepon Clini, Varthur Bangalore
+Z Dr'Fovine Memnoral Hospital Bangalore
+cational Qualifiatons
+Pe MDS, John's Medical College, Bangalore (Cas f 208)
+Z_RGDAAt: CMC. Vellore (casa 20)
+16
+
+
+g, sThve
+Phable ven TURES
+Years Experience: 16 years
+Practice Art Inu Meine and Cardiologist
+Work Fxperience
++ en Diagnostic, Bangaore
+Pte ny oop Banglore
+Dr Vivek Baliga FR Hospi Bingee
+> Hesce Range
+> non Academy of Echocardiography, Kamataka Chapter
+Educational Qualifications
+MIS, Kastan Neti Cols, Mangere (Chas 200
+NMC ya! Cage of Paysites (9 3000)
+Years Experience: 29 years
+Pracce Area Gyncclogst
+Work Fxperience
+Rta Clinc Pune
+‘De. Shrideep Aran Parab > Nandadeep Hospital, Satara
+Educational Qualifications
+SMI, Str Ste Media Univers Russia (Ch f2010)
+2 Dao crsiumbat ces af 2015)
+Years af Experience: yes
+Practice Aven Canoe
+Work Faperience
+nkatahSomalaram | > beter RY Hospital Bangalore
+Dr Venkatesh Somala > Fortis Hospital, Bangalore
+Educational Quaifiations:
+Ss AIBDS Dr Bit Ambedkar Medial College (Cassof 182)
+> Minto! Medicine, PCIMER: Chana (hs of 001)
+Years Experience: 6 yeas
+Practice Ate Intra Mine an Genera Physician
+Work Faperience
+> Rpg Hospi Tanahar
+Educational Qualifications
+SMIBSS, Mauris Narkandeshwar itt of Medal viene Research
+Muna, Ambala Cs of 202)
+> DNB Family Medicom Mahatina Gandhi stat of Media Sciences,
+Sewage (Cf 3015)
+Doctor Retention and Adoption Metrics
+”
+
+
+g, STs
+Phable venluREs
+Ththe lst 12 months, Phablo has doubled Ws doctor base By adding “3300 doctor. ~G5K ofthe doctors added im
+Nov'20 continue to work with Phable as on Oct
+Bee ro ay Tak] Aa | Sep
+2 2 Fi a | ot | op
+[Foran | ne [aos [sx roi [rae | oom [ose [oss [ost [oor | osx [oor |e |
+|
+ee A
+[Seep] tos || Fano 93% [90% | 90x asx | ass | sis | 5x | 7% |
+=
+eo
+GC
+r= a
+Lia ee foo Pons [asx [si]
+(Auger [oa noe Pore [59%]
+=
+“There are ~6,300 doctors on the platform out of which ~80% are monthly ative users, While the number of doctors
+‘on te platform have doubled inthe last 12 months, Phable has maintained a strong base of active doctors that drives
+engagement and therefore, adoption by patents
+Active Doctors
+= eddy 1 dace ~ ance adel fo Aodtene os
+da =
+= Hehe pe vow 188
+a tae
+an :
+2612 3032 aod
+oa
+1391 207 = 278 cus ‘2673 vet
+% nae
+os ee <1
+sa ree oat
+pero. ec and mnths
+Sample Agreements with Partners
+> Phavmeasy shall provide a web |» Phableand Onvon to + ima Diagnosis dal provide
+tasedor mabileapp ochnology | collaborate and provide Omron | " delivery of Lab services
+pores for processing orders on behalf | devices to its customers including:
+Services | Yiheuser plcingordew on | tough subscriptions > Sans and adilogy
+Dhabi’ pltiorm sevice
+Fy
+
+
+2, Five
+Phable VENTURES
++ Divicosinchade-BP Monit, | > Semple ood tess aad
+Nebulizer, Weight & BML TH, Saliva ete)
+TENS, Pulse Oximeter
+for users placing orders on
+Phable's platform
++ For every completed order, |» Device Margin: 37% wo% |» — Prima agres to pay Phable
+Phabletorecelve 5% ‘oncost pric (subject to device | the following fe.
+commission on all delivered | type Device cost ranges fom
+orders INR 100 to INR 8,000 > Pathology and Radiology
+PS Lakhe 40%
++Customer Discount = +) Subscriptions Margi: 10% on 24 Take 45%
+Tharmeasy base iscount+ |" fistime subcrption 10% on “Sa Lakhs 50%
+Revenue | 2% hable Partnership renewal of subscription on
+Sharing discount ‘cost price; First Subscription:
+INR2959 > Packages
+Renewal INR 1599 = 30 pligs- 20%
+7S ao pkgs a5
+Home Cllston Charges betiecn
+INR 10000 fe cid by Pina
+> Within a5 daysofimvoce, > The product price shallbe > Within 15 daye of invoice
+pad to Omron by 30 days
+from the delivery date
+Payment > Foribe subsrpon service
+fee, PhableCare shall pay
+(Omron the amounts stipulated
+above based
+fon[T 5] days
+> Valid uni-one of he partion [> Valk il Ist March 202, can_| > Vals anil year from the
+ives a termination notice be extended after givinga date of execution
+we notice 3 months prior to the
+termination ofthe agreement
+> Righttoterminate with Right to terminate with [> Right To terminate with
+immediate ettectupon giving |” immediate effect upon giving |” immediate effect upon giving
+Termination | 51 advance notice of 30 days an advance notice of 30 days fan advance notice of 30 days to
+tothe service provider tothe service provider theserice provider
+Working Capital
+‘The company has minimal working capital
+Inventory: The company keeps a small amount of inventory (INR ~0.4 Cras on Sep'21) for fast moving healthcare
+Receivables: Receivables are mostly inthe form of commission revenue from supply partners (For ex: Pharmeasy and
+IMG), receivables from pharmacies for procurement of medicines (B2B medicine sales) and orders for devices in
+transit (anbilledrevenie)
+Receivables Ageing (as on Sep’21)
+(INR Cro)
+oa | =o
+nid Revenue Device | Onder in want :
+[siog ns [Orme fos PTL [os [se |
+»
+
+
+g, STRoe
+Phable venluREs
+[Fiarmgy cata a
+fag eats [ora |
+[Dinka Pharma [wa MadiineSates [= [om [~o00 [== [oot ex |
+[Dia Ps [va Maiinesates [= [= [oreo fo |
+[Family Tse Prana 030 Maviinesates [=| a0 00 | “oo [ “oro |
+Phar Bs TRB Medicine Sales ao [ear |“o01 [0a
+Bharath Medias TaD Medicine als Se a
+[Beyond Heath Care| 030 Madiine Sates [| [| [oases [2]
+ee A
+aa 9 aro ae frno}
+Payee: Payables are most inthe form payables to device manufacturers, and other vendars (conporae credit ear
+providers, diagnostic labs, etc)
+Payables Ageing (As on Sep'21)
+nk cron
+oa =o
+[Erm [ovina [| ow | ew || am | ow | |
+[SEP [mwas [ow [ow | om | ow | ow [|
+[Karbon Cand | Creit Cre Payables [036 [=P]
+[Provision COGS— [Onder intransit—— [aad [ =P 0a]
+[Mogi tabs di Marketing [= [hPa |
+Omon ileal Provisions Yor Blsnat on
+[seme [winnie [fom [om | on | am fom [|
+Computer Computer Equipment
+Exchange vendor 006 cae
+Venkatesh Babe
+[see me [ow Pm [ne |
+ee
+[others poikers | aa | as or |
+a
+ses ea a]
+Future Plans
+As the dependency and adoption by doctors and patients increases, Phable will lok to introduce neve services andl
+focus on more strategic partnezhipe to become a one stop platform for bot, doctors as wellas patent
+Patients
+Retail Vertica
+Phable as plane o increase its offering and bolster existing ones by introducing services auch a:
+20
+
+
+2, Five
+Phable veNTURES
+At home healthcare services including doctor, nurse, and physio on demand
+Specialized testing including genetic testing (gut microbiome, etc)
++ Corporate Verticat
+> Phable is building its corporate vertical to provide corporate health benefit plans targeted towards early-stage
+startups with an employee strength of 0-150 employees
+> These health benefit plans will be a combination of health insurance and healthcare services that can be
+availed on the Phable app. In the near future, the company also plans to rll out healthcare credit cards for
+employees which would allow them to seamlessly aval 36-month healthcare loans.
+> Since its recent launch, Phable has onboarded 2 corporate including Ola. The company is inthe process of
+hiring experienced senior professionals witha strong network f corporates to bolster its corporate
+partnerships.
+Doctors and Clinics
+Currently, Phabe is focusing on adoption and acquiring patients through doctors. Therefore, the platform is free to
+tse for doctors and focuses on overall clinic management and patient engagement. However, Pable plans to
+monetize doctor engagement by introducing products such a:
+> Doctor Consumables: rable will serve as a procurement platform for doctors to procure consumables (surgical
+gloves, hospital wear, syringes, et) directly through the platform.
+> Advertising for Doctors: The Phable patient base is ~12 lakh users and growing. As the base continues to expand
+rapidly, doctors willbe able to advertise their services on the Phable App to target patients
+> SaaS and Data Tools: Phable will provide paid analytics and SaaS tots to doctors, clinics, and hospitals for =
+prescriptions, electronic medical records, tele-consultations, ec. The company has successfully completed its pilot
+And has deployed its SaaS tool for doctors across Forti hospitals in South India
+Strategic Partnerships
+Phable is bundling its subscription services with device manufacturers such as Omron, Accu-Check, etc. For example,
+Phable is rolling out its subscription services fr all Omron users pan India. With every purchase of an Omron device,
+there will be a QR code on the product to access Phabe's subscription plans. These would be at discounted rates and
+free of cost for a fixed period after which the users can gett renewed fora fee.
+Strategic Acquisitions ie 1
+—+ Teal Cathe eavenedad fy nempiline
+Phable has planned strategic acquisitions across differen healthcare domains to suppor its growth plans. Some ofits
+sees All GR? ans no?
+[Company [sins Overview Revere]
+BeatO isa diabetes management platform with remote healthcare coaching.
+With BeatO Care, users can book blood test, physical examination and
+Beaton | seatorvsitat home INR~48 Cr
+reat Some of its key features include food, activity, and blood glucose | (Oct’21 ARR)
+monitoring, while maintaining an online store for buying diabeticriendly
+foods and supplements, and sel-testing equipment
+a
+
+
+@ sive
+Phable vel ORS
+<Rinaie ban onneonpTone hal ant platoon Tap pews |
+iarape theatre corde foe on eames te company | NICH
+provides poronatza lca plas wine
+‘fonpian as sng and Tancal panning platoon Tor meal
+pees Taliduts ean tevtop savings options, ek up cemaeee | INR72Ce
+Afford Plan | orrollment services, among others. The company also offers insights to (FY20)
+SXtou patot dumoprap ice eda Beef and consuls sevcee
+Tha proves cectoic mie eon sun or conc care
+rmangerent ith fates suchas eprecipton. generation Ted
+manera tng ete Tass has dashes proving A cine
+Haiti: |ftaririned is tlt to Staee arin, ket cna | INEEACK
+‘opts an rena tems anl ak. The company corey
+Tadeo! srs 7 ies sto Te apes an aot ore
+thane doctors
+Rae EET et
+4.
+Unit Economies 5
+go NS
+steady State Wo a
+Zz EESRTIAET
+cia :
+‘Consultations & ae
+rari
+Tevenae ' :
+[emstaion || [| wm Tm | |
+[Revense ———|\ione [i ims we
+a
+[ex ss oe
+ute () Not OMY fe ake ato rors ate rng eine dry riers Phar and 1G 2) Lune
+perme an to he on enc
+‘The company as operational ont tht reser in tre (Operations eam saris) which he company
+sesso Tul Cre Nagin cee CMI of Company
+:
+a a .
+(GR Sok
+cS
+Dees =
+‘Consultations & aaa tie
+rs
+Revenue 24% 7% 23% 0.3% ™% 5%
+Conttbation
+[Revense | ioos | 0s ins a
+cat es oe a
+oni ioe a a Na [ats [0
+2
+
+
+eg. Tine
+Phable vel ORE
+Chronic Disease/ Non-Communicable Disease (NCDs)
+[NCDs are ane ofthe major challenges For public health inthe 2st century, not only in terms of man suffering they
+Cause but alo the harm they inflict on the socioeconomic development ofthe country. NCDs Kil approniately 41
+tilin people 71% of global deaths) worldwide each yeu, inclaaing 4 mili people who de oo young between
+the ages of 0 and 7. The majority of premature NCD deaths are preventable
+According to WHO projection, the total annual numberof deaths from NCDs will increase o 35 milion by 208, i
+‘iely interventions ane not danefor provenion and conta f NDS
+In india, nearly 58 millon people (WHO report, 2015 de from NCDs (eat and lung diseases, stroke, cancer and
+Aiabets) every year on other ors 1 in Indians asa isk of dying rom ant NCD before ty rach te aye of 70.
+: . ~. fpr _
+pom’ . &
+rey téegton tron) | 4 @rsse >
+oe me ee es
+Bay Bi oeavatte = ce
+Wx Mitte — EE SS
+*Cardowsadhenevcnee. ork mptaoydiosantditees SSabaseasce—~ ECC
+Sis iif al lig Fo i as WHO, 308
+Current Chronie Disease Management in India
+(0) Avareness: There is very limited understanding of early symptoms of chronic diseases, kading to low
+diagnose rates, Chronic patients generally blame their genes for thei tate, and are not aware that a Eesyle
+dlisorder canbe conquered easily with smal incremental interventions
+23
+
+
+g, sThve
+Phable VENTURES
+‘esti ve as
+selene pete
+I
+. i z=
+Sr: NATHEALTH, 2015
+(2) Affordability: Healthcare under served and under-consumed in India because ofa huge affordability barre.
+Insurance covers les than a fith of our population, and out-of-pocket spending is considerably high. Moreover,
+health insurance covers only inpatient (hospitalization) costs and completly excludes outpatient (doctor visi)
+costs leading to breaks in treatment
+cutee pense lapse on at)
+cox 58K
+5%
+0%
+uae
+aK
+a 1%
+m
+om
+‘nde ness Gin Salary UB _aice
+Src: PH ling Coon nd Wl Bk, 2015
+(9) Access Very often patienis miss their doctor followupe. Urban patents ae constrained by ime and non-urban
+patients by distance limiting access to the doctor
+2
+
+
+2, Tie
+Phable ven
+ne } S
+
+eHealth Market Size (INR Cr.)
+vam
+Tea
+
+ea <v ry il | |
+
+a i oe |
+
+Sone yams) am as
+
+pharmacy though wa nascent sage is expat io grow espana to rach “INR2000 ry 25
+*s
+
+
+ge. STRIDE.
+Phable VENTURES
+wie
+India’s eHealth Market Landscape
+eo
+pramocy TEE cairn. PPharmeasy menure Sswainten @utcore Mackin
+Grea myipchor © oror-rnsx careQgo @ Aaqe erence
+Temesine spracto: P ocore KEEH Goikwou Meradoctor Fume
+5 Yybrage cement? cred) @vocsdep @ye™ JustDoc CO
+w
+N Leliatg qouwenes lonea! see Or SHIN
+wy de Lt Goloneaith Merman Srccwee Ey SHING
+ag? / wile eve’ Sects HBGOCTOR Be float” gs Heatwell24
+/
+comarmmnevenen eons masfoer rence Gamer ERP Crentye sees
+HEM obino Ait SARVA weve Gy fetapa Zor
+seathninds FI twee caniy— fiteriy GB or Cur writs
+Total Addressable Market
+> Indian spends $1008 (INR 7,50,000 C+) per annum out-of-pocket on their health. 70% ofall healthcare spend in
+India is on Chronic Disease. (Source: National Health Mission Report ‘Houschald Health Expenditures’ 2014)
+resRONS
+Or cunt
+0%
+400 million Indians suffer from Hypertension and Diabetes. There is ~50%peneteration of smartphones in
+India, out of which 65% of these smartphones have OS which can support eHealthcare apps. This, 70 million
+(40 million *50% *65%) people are the immediate Total Addressable Market (by Volume)
+26
+
+
+@, Ties
+Phable VENTURES
+»
+
+
+@, Ties
+Phable VENTURES:
+smpseannormee
+»
+
+
+eg. FPRive
+Phable vel ORE
+> Conbining Brikcand-Movtar with Technology Wr ar Zand Wars facing sorages af primary care
+tnckond-tortar heal centcs equipped with technaogy can bilge te service spe Ts has proven
+cifective in livering gta healthcar servis othe underserved
+Competition:
+Growth Startups
+g, MediBuddy
+[| Phable_| SMetbe | Gem | -practor | retinere’
+Yearof
+oe ee fee
+Business Model | B202@ | Wa waa ROC, RaHIC mmc
+Telemedicine, | Tlemedcine, | Tloneline | sopsigmment | Corporate
+Core Offerings | Appointment arpa farporate bookings, health benefit
+gratin’ | nethtenie | wahbocne | ak | Pau
+[stage [Series A [series [Series [Series [Sens |
+Tear 505% Lge, | St, an
+Manipl Benemer, | Prime, Sequoia, Tencent, | Partners,
+Hospitals | siiays, | Beenet, | ate Soin, ALA | Touchstone,
+Frese Capinl, | jArco ania, [Henan SB | Coup Ventureast,
+Orpen | Invascent”” | vestnent Tight Roads
+Total Equity
+pele | os fo os 1887 10
+Uae Equity ONR | ggg soo mez | oiquray | a0 (auy2y | 257 6°19)
+Tatest Revenue | 998 ARR Fo 722 19 GIA
+NRCS) ova) | carise2n | ey20 fate Rt)
+yaiutiongne | MS¢ARR 2 2 1399 s2(oLFa
+atin foray | carese2n | 20 ey, Re)
+sl
+Valuation?
+“wis os ee
+2
+
+
+S]RIDE.
+
+rave veal es
+Date of incorporation: 2018
+
+‘Auditor: Nemani and Associates (Tier It Bangalore)
+
+‘Audit Opinion for FY2: Unqualified Opinion. FY21 report expected by 15% December, 2021 as itisa CP tothe
+ee ie
+Historical Analysis
+
+fomv | ar) ts |r| ts | ama] 7s |_|
+[Revenae | “073 [078 [00 [as ts 3a] a6 tor]
+foes [oso] asa | aos 509]
+[ross Maygin | ~04z [oat [oor [aa | 009 | “196 [a4 | 58 |
+[ross Maine | “asi sag [ex [ax [so [a]
+few | aa] 909 as | os [oe 203] 00 ar]
+ar SS
+[riseang” | oo | os | om | ose | Gio [ss [a5] na |
+fog | as | as | a ||
+[ese |x| ae [a [aaa [aa]
+[Branding Expenses [021 [oar [4s | 029 | 038 | 06s] 06s [24 |
+[stares [0380s [ ost [as | 057 [03 | on [a2 |
+[otter scx | ~o33—| oat [nae | nar | or 0] seas]
+feerrpa [us] sna [200 | a9 as [as]
+[esrroa | ~asrx | ~-aasx [sax [rar [ aon | aa [ aaron]
+[other income | ~ oz | —~0.03 | ous | “a0 | our | 007 | 007 | 03 |
+[Onesime expenses [098] 4.05 asf = oat]
+rT
+[ears ————]seex | sn [ats “ars | aaa] saa]
+Profit & Loss:
+
+(Lom Yor rsa [aise | sea [i961 | 79853 |
+[Revenue || ars [7s | 2asst0 | so94 | sivet | 79853 |
+foocs 526 a0.77 | as280— [3130 [ise [8.2 |
+[Gross Margin | |s6.7 | 29205 [905.31 [set [12120 | suoat_|
+[Gross Margin’ | [4% [398 [aa [as [8 [398 |
+[OpsSalary [827 [a5 [e327 [88 [1597 —|
+fem 90 2s00 |r 29 a7 [too | ae]
+[omar [are ae am |
+[Performance Marketing| —[9975__[aan8S[—s77a8_| 3975 [Coxe | au4o_|
+tema | 68 | 0a [asa savas [ 933 [803 |
+[ene a 5 ie ss os]
+[Solas [Pt] 820 | aaa aaa [ 2 |
+[Otnersc&A | 98 ast | aa93 [798 [ast [4s
+feprrba [Gon fam sf ase [reat [73 [57306]
+EBITDA % [rte are [ae are [are [re |
+
+30
+
+
+ge. STRIDE.
+Phable VENTURES
+[interest Cost eas Tas a7 42s Ts]
+[One-time expenses | =| S56 S| S| 88)
+[eer e573 aaa a9 ast 762513858] 78.11 |
+a a 5 SE”
+Balance Sheet:
+[Management Case | _StrideCase___|
+[Particulars ai | ra [ naa) ry | ras nai
+fuapmmes
+[Networth 399 | 2005 [7a 7035] eno sae | 3504)
+[Long Term Borrowings [=| aso is00 [aso] aso 950/750)
+[Current Liabitities [aa 2s{ss| aos] 2s[s5| 108)
+‘Other Payables oa; _10[ 10/10 10 10
+TOTAL a7) 24.0| s69| 402) 2395 B72
+fassers
+[Guentassers
+[Receivables [os] ata fas] zt a2 f as)
+[inventory Too os | ast ss] os[25{ 55)
+| Cashtand Cash Equivalents |(368) 243.0 | 602 |" ead 2505 | 5063 | aa.t|
+[Toran sn] 29.0] s69.9 402) 2395] sea] 4372)
+1
+
+Cath low Statement: omit Go
+a
+
+oo [ryan | rv22 | ry23 | ry2a | y22 | ry23 | Fy24
+[Openers
+| Cash flow from operating activities [| P
+feempa Te) Tees) [2s Ta) | a3 [37 |
+[Changesinworkingeapiak [|_| |__|]
+[Changein TR oy a |e) Poa To Te) |
+[Change in Inventory || a) |e fo) | @a) | en Fao) |
+[Change in Payables Ta 30 330 53
+[Cashflow from Investmentactivities | [|_| J} |__|]
+[Additions toFixed Assets [oso fos as) [07 fos]
+[Cashflow from Financing aciviies | |_| [|_| |__|
+Equity 2380) [7500 Zao | 3750
+Debt wo | 105.0 450 | 500
+[interest ay aay |e) Ty aay Pa) |
+[Net Increase or Decrease |= 206.2) 6171 | (05.7) | 1987 | 2728 | (S49) |
+‘Closing Cash 2430 | 8602 | 824 | 2535 | 5063 | ALA
+
+a1
+
+
+ge. STRIDE.
+Phable VENTURES
+Tnndicative Ratios
+[Particulars van [yaa Tyas | rye [yaa [y23 | ry2a |
+[Total Debi Equity ised wildate [00x | sox | ao0x [= [aon [assx |= |
+| Total Debt/Valuation TT oox [son az [sox [59% P|
+Working Capital:
+frvmimy [oo] Jos a [as] 2 [ss] 0 os] « [as] s [ss] « |
+Inwe
+Assumptions:
+“Raggressive assumptions -
+Established revenic lines like Device
+Revenue Growth Sales, Medicines Delivery ete growth | Established revenue lines
+at 20-25% MoM in Fy23, 10% in Fy24 | FY23:10% MoM.
+Other new line items, Aggressive | FY24:5% MoM.
+growth aftr first6 months at ~30% __| New revenue lines: 510% MoM,
+Branding (Asa % of FY: 22%
+Revenue) Fy 5% Same as Management
+Performance Marketing (AS | FY23:29%
+a % of Revenue) Fy24: 27% Same as Management
+Fy23: 130er Fy23: 75ce
+FYE NA FY24: NA
+[Equity Raise | S100M ie. INR 750er in FYI 50M ie INR 375er in FY
+| Warrant Upside]
+We have assumed the following:
+> Aninterim equity round of $100M FY24 leading to a dilution of 14.5%.
+> Revenue multiple of 6x, industry standard for telemedicine on a conservative basis.
+> Growth in Revenue as per Stride case, as opposed to management case.
+«yl
+apis
+22
+
+
+g, STRive
+Phable vel ORS
+a | Exit Revenue INR Cr (MRR)
+[Financial year | eo0| soo | x00] 3200 |
+Year of Exercise 316% 35.6% 388%
+PostMaturity |junae | 8a | 312% 37%
+Box 28.1% 301%
+High burn and no clear path to prfitabiity | > Phabeis focusing strongly on customer acquisition
+ana etenton which has resulted ina high monthly
+(Ona monthly GMY'of “INR 8 Ce the burn of INR 67 Cx. However the company isadding
+company hasa monthly birof INR68Cr | over 15 lakh users each month and has aed 6 ak
+{Oct 21) due to cscounts and eustomer ters in he last 6 month through a suecessfl
+> Phableis raising $17 Mn ins seis B with infusion
+expected in Dev Furthermore, the company isn
+auvanced discussions tase a $80S100 Nin round in
+Gurv22/1¥25. Ths woul alow the compan to
+Sustains PRL bur comfortably
+No clear product market fit > Phableis creating niche inthe chronic disease
+management segment by the being the Fist
+Phable has started monetizing recent in HealthTech player to focus on this space, The
+Feb'21 and currenty has multiple tines of company i leveraging a unique aquisition model to
+a strong postion tobe a one stop solution for all
+healthare needs of chronic disease patients,
+> The company is buildinga suite of services targeted
+towards the ecosystem of doctor, clinics and chronic
+tisease patients: Therefore, the potential to be highly
+Sticky and to acquire a larger wallet share ofthe entire
+conjter i high
+Investor quality and scalability > Phable is raising $17 Mn in December from new
+investor Aflac Ventures ($400 Mn international
+‘The current investors lack the appetite to lead fund) and is in advanced discussions to raise a
+future round of equity in the business, ‘
+larger equity round inthe range of $80-100 Ma. In
+the subsequent round, the company is seeing
+significant interest from large VCs, Tis would
+give them access 1 large pool of capital to fund
+3
+
+
+2, Five
+Phable VENTURES
+SLSR
+x
+
+
+ge. STRIDE.
+Phable veNTURES
+Furthermore, the company is building products for doctors and clinics, in addition to patients, who are already on the
+platform and has over 4,000 active decors using Phable already
+Saurabh Pandey, CEO and Co-founder, Akna Medical (Now Pharmeasy)
+*Chirone care isa very sticky segment and traditionally, the supply cain for medicines, quality lab tests and datos has been
+fon missing in India, Ther are multiple new age digital solutions tat hve been but a this spc verte last 4-5 yes and
+its only a mater of tne before a digital healthcare platform was bore connecting th entire ecosystem. At Pharmeasy as el,
+‘we will ok tori this segment trough mens of organic or inorganic expansion but Phable currently sts fo obtain fist
+Ramesh Kannan, Partner, Somerset Indus Healthcare Fund
+“Telemedicine ona standalone assis not profitable and may not be ona steady state basis either. The only profitable segments
+canbe surgery and Lab tests (Diagnostics). Chronic care management syste India are currently broken n India an hence,
+‘connected health systen can go along way to solving the problem of disconnection Betsen a dactor anda chron patient Due
+toa vase in ticket sizes and th isk at hand (i), suc digital mode has a good chance of showing profitability in the study
+stat.”
+» yy
+dX»
+Sag
+o Od £
+v » so
+yor
+/ ye
+aE
+Fs
+
+

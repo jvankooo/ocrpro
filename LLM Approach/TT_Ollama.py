@@ -1,158 +1,135 @@
-import os
-import json
 import fitz  # PyMuPDF
-from PIL import Image
-import torch
-from transformers import DetrForObjectDetection, DetrImageProcessor
-import ollama
+import pdfplumber
 import pandas as pd
-from ultralytics import YOLO
-import cv2
+import pytesseract
+import json
+import os
 import numpy as np
+import cv2
+from PIL import Image
+import re
+import openpyxl
+from openpyxl.utils.dataframe import dataframe_to_rows
+import uuid
+from io import BytesIO
+import layoutparser as lp
+import torch
+from transformers import TableTransformerForObjectDetection, DetrImageProcessor
+import warnings
+
+warnings.filterwarnings('ignore')
+
+# Load Table Transformer model
+device = "cuda" if torch.cuda.is_available() else "cpu"
+processor = DetrImageProcessor.from_pretrained("microsoft/table-transformer-detection")
+model = TableTransformerForObjectDetection.from_pretrained("microsoft/table-transformer-detection").to(device)
 
 
-# ✅ Define Input and Output Paths
-PDF_PATH = r"E:\Btech_AI\Intern\ocrpro\Phable CAM Final.pdf"
-OUTPUT_DIR = r"E:\Btech_AI\Intern\ocrpro\LLM Approach\results\TT"
-os.makedirs(OUTPUT_DIR, exist_ok=True)
-
-# ✅ Create subdirectories for outputs
-TEXT_OUTPUT_DIR = os.path.join(OUTPUT_DIR, "text")
-TABLE_OUTPUT_DIR = os.path.join(OUTPUT_DIR, "tables")
-IMAGE_OUTPUT_DIR = os.path.join(OUTPUT_DIR, "images")
-os.makedirs(TEXT_OUTPUT_DIR, exist_ok=True)
-os.makedirs(TABLE_OUTPUT_DIR, exist_ok=True)
-os.makedirs(IMAGE_OUTPUT_DIR, exist_ok=True)
-
-# ✅ Load Table Transformer Model
-try:
-    model = DetrForObjectDetection.from_pretrained("microsoft/table-transformer-detection")
-    processor = DetrImageProcessor.from_pretrained("microsoft/table-transformer-detection")
-except ImportError as e:
-    print(f"❌ Error loading Table Transformer model: {e}")
-    print("Please ensure the `timm` library is installed. Run: `pip install timm`")
-    exit(1)
-
-# ✅ Convert PDF Pages to Images
-def convert_pdf_to_images(pdf_path):
-    """
-    Convert PDF pages to images using PyMuPDF.
-    """
+def extract_metadata(pdf_path):
+    """Extract metadata from the PDF file."""
     doc = fitz.open(pdf_path)
-    image_paths = []
-    for i, page in enumerate(doc):
-        pix = page.get_pixmap()
+    metadata = doc.metadata
+    doc.close()
+    return metadata
+
+
+def extract_text_by_page(pdf_path, output_path="extracted_text.txt"):
+    """Extract text directly from the PDF page by page, combining native text extraction with OCR."""
+    doc = fitz.open(pdf_path)
+    all_text = []
+    
+    for page_num, page in enumerate(doc):
+        text = page.get_text("text")
+        pix = page.get_pixmap(matrix=fitz.Matrix(2,2))
         img = Image.frombytes("RGB", [pix.width, pix.height], pix.samples)
-        img_path = os.path.join(IMAGE_OUTPUT_DIR, f"page_{i+1}.png")
-        img.save(img_path)
-        image_paths.append(img_path)
-    return image_paths
-
-# ✅ Extract Text Using Ollama
-def extract_text_with_ollama(image_path):
-    """
-    Extract text from an image using Ollama.
-    """
-    try:
-        with open(image_path, "rb") as img_file:
-            response = ollama.generate(
-                model="llama2",  # Use a suitable model
-                prompt="Extract all text from this image.",
-                images=[img_file.read()]
-            )
-        return response["text"]
-    except Exception as e:
-        print(f"❌ Error extracting text from {image_path}: {e}")
-        return ""
-
-# ✅ Extract Tables Using Table Transformers
-def extract_tables(image_path):
-    """
-    Extract tables from an image using Table Transformers.
-    """
-    try:
-        image = Image.open(image_path).convert("RGB")
-        inputs = processor(images=image, return_tensors="pt")
-        outputs = model(**inputs)
-
-        # Post-process outputs to extract table bounding boxes
-        target_sizes = torch.tensor([image.size[::-1]])
-        results = processor.post_process_object_detection(outputs, target_sizes=target_sizes)[0]
-
-        tables = []
-        for score, label, box in zip(results["scores"], results["labels"], results["boxes"]):
-            if score > 0.9:  # Confidence threshold
-                tables.append({
-                    "box": box.tolist(),
-                    "label": model.config.id2label[label.item()]
-                })
-        return tables
-    except Exception as e:
-        print(f"❌ Error extracting tables from {image_path}: {e}")
-        return []
-
-
-def extract_images_and_charts(image_path):
-    """
-    Detect and extract images and charts using YOLOv8.
-    """
-    try:
-        # Load YOLOv8 model (use a pre-trained model or your custom model)
-        model = YOLO("yolov8m.pt")  
-
-        # Load image
-        image = cv2.imread(image_path)
-        if image is None:
-            print(f"❌ Error: Unable to load image {image_path}")
-            return []
-
-        # Perform object detection
-        results = model(image)
-
-        # Extract detected objects
-        detected_objects = []
-        for result in results:
-            for box in result.boxes:
-                class_id = int(box.cls)  # Class ID
-                confidence = float(box.conf)  # Confidence score
-                if confidence > 0.5:  # Confidence threshold
-                    detected_objects.append({
-                        "class_id": class_id,
-                        "confidence": confidence,
-                        "bbox": box.xyxy.tolist()[0]  # Bounding box coordinates
-                    })
-
-        return detected_objects
-    except Exception as e:
-        print(f"❌ Error extracting images/charts from {image_path}: {e}")
-        return []
+        ocr_text = pytesseract.image_to_string(img, config='--psm 6')
+        combined_text = text.strip() + "\n" + ocr_text.strip()
+        all_text.append(f"--- Page {page_num + 1} ---\n{combined_text}\n")
     
-# ✅ Process PDF and Extract Data
+    with open(output_path, "w", encoding="utf-8") as f:
+        f.write("\n".join(all_text))
+    doc.close()
+
+
+def extract_images_and_diagrams(pdf_path, output_folder="extracted_images"):
+    """Extract images and charts from PDF, filtering meaningful content."""
+    os.makedirs(output_folder, exist_ok=True)
+    doc = fitz.open(pdf_path)
+    
+    for page_num, page in enumerate(doc):
+        for img_index, img in enumerate(page.get_images(full=True)):
+            xref = img[0]
+            base_image = doc.extract_image(xref)
+            image_bytes = base_image["image"]
+            image_ext = base_image["ext"]
+            img = np.array(Image.open(BytesIO(image_bytes)))
+            
+            if np.std(cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)) > 10:
+                image_filename = f"{output_folder}/image_p{page_num+1}_{img_index+1}.{image_ext}"
+                with open(image_filename, "wb") as img_file:
+                    img_file.write(image_bytes)
+    doc.close()
+
+
+def detect_tables_with_table_transformer(image):
+    """Detect tables in an image using Table Transformer model."""
+    encoding = processor(images=image, return_tensors="pt").to(device)
+    with torch.no_grad():
+        outputs = model(**encoding)
+    return outputs
+
+
+def extract_tables(pdf_path):
+    """Extract tables using Table Transformer and pdfplumber."""
+    doc = fitz.open(pdf_path)
+    tables = []
+    
+    with pdfplumber.open(pdf_path) as pdf:
+        for page_num, page in enumerate(pdf.pages):
+            extracted_tables = page.extract_tables()
+            for table in extracted_tables:
+                df = pd.DataFrame(table)
+                if df.shape[0] >= 2 and df.shape[1] >= 2:
+                    tables.append((page_num+1, df))
+    
+    for page_num, page in enumerate(doc):
+        pix = page.get_pixmap(matrix=fitz.Matrix(2,2))
+        img = Image.frombytes("RGB", [pix.width, pix.height], pix.samples)
+        outputs = detect_tables_with_table_transformer(img)
+        if len(outputs.logits) > 0:
+            ocr_text = pytesseract.image_to_string(img, config='--psm 6')
+            table_df = parse_text_to_table(ocr_text)
+            if table_df.shape[0] >= 2 and table_df.shape[1] >= 2:
+                tables.append((page_num+1, table_df))
+    
+    doc.close()
+    return tables
+
+
+def save_tables_to_excel(tables, output_file="extracted_tables.xlsx"):
+    """Save tables to Excel with each table on its own sheet."""
+    wb = openpyxl.Workbook()
+    if "Sheet" in wb.sheetnames:
+        del wb["Sheet"]
+    
+    for page_num, table in tables:
+        sheet_name = f"Page_{page_num}_Table"
+        ws = wb.create_sheet(title=sheet_name[:31])
+        for row in dataframe_to_rows(table, index=False, header=True):
+            ws.append(row)
+    
+    wb.save(output_file)
+
+
 def process_pdf(pdf_path):
-    """
-    Process a PDF and extract text, tables, images, and charts.
-    """
-    image_paths = convert_pdf_to_images(pdf_path)
+    metadata = extract_metadata(pdf_path)
+    extract_text_by_page(pdf_path)
+    extract_images_and_diagrams(pdf_path)
+    tables = extract_tables(pdf_path)
+    save_tables_to_excel(tables)
+    print("Processing complete! Metadata:", metadata)
 
-    for i, img_path in enumerate(image_paths):
-        # Extract text
-        text = extract_text_with_ollama(img_path)
-        with open(os.path.join(TEXT_OUTPUT_DIR, f"page_{i+1}.txt"), "w") as f:
-            f.write(text)
 
-        # Extract tables
-        tables = extract_tables(img_path)
-        if tables:
-            df = pd.DataFrame(tables)
-            df.to_excel(os.path.join(TABLE_OUTPUT_DIR, f"page_{i+1}_tables.xlsx"), index=False)
-
-        # Extract images and charts
-        images_charts = extract_images_and_charts(img_path)
-        if images_charts:
-            with open(os.path.join(IMAGE_OUTPUT_DIR, f"page_{i+1}_images_charts.json"), "w") as f:
-                json.dump(images_charts, f, indent=4)
-
-    print("✅ Extraction complete. Results saved in respective directories.")
-    
-# ✅ Run the Pipeline
-process_pdf(PDF_PATH)
+# Example Usage
+pdf_path = r"E:\Btech_AI\Intern\ocrpro\Phable CAM Final.pdf"
+process_pdf(pdf_path)
