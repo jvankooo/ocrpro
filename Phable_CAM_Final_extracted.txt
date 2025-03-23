@@ -1,0 +1,93 @@
+Proposal Summary December 2021  
+Borrower Name: Terrals Technologies Pvt. Ltd.  
+Sector: Chronic Disease Management and Healthcare Services Platform  
+Proposed Amount: Up to INR 45,00,00,000  
+Tranche 1: INR 10,00,00,000  
+Tranche 2: Up to 15% of the equity raise (Series B) with an overall cap of INR 35Cr  
+Tenor: 18 months from the date of disbursement of each tranche  
+Debt XIRR: 16.56%; Warrants: 7%; XIRR with warrant upside: 31.2%  
+Repayment Schedule: Quarterly Amortization (5 installments); Moratorium for three months i.e., first principal installment at the end of 6 months. The coupons are to be serviced monthly on the last day of each month.  
+
+Filtering Criteria:  
+Equity Raised till Date more than INR 50Cr, Pre-Equity INR 64Cr, Post-Equity INR 192 Cr.  
+Debt to Equity Raised including proposed debt less than 15 percent, Pre-Equity 15.9 percent, Post-Equity 15.16 percent.  
+Debt to Valuation including proposed debt less than 5 percent, Pre-Equity 6.6 percent.  
+Months of Runway excluding proposed debt more than 9, Pre-Equity more than 3, Post-Equity more than 18.  
+Revenue ARR more than INR 25Cr, Pre-Equity INR 95 Cr.  
+
+The company is raising Series B of 17 million dollars, INR 128 Cr, with equity infusion expected in December 2021. Second closing of this round is expected by the end of January 2022 and may go as high as 40 million dollars cumulatively. The company is raising significant debt and equity to finance strategic acquisitions. The current Series B round will be a convertible round valued at 20 percent discount to Series C expected to close Q1 FY23.  
+
+Cash Margin: 7.5 percent of Investment Amount.  
+Security: First charge and hypothecation on all existing and future fixed, current, and intangible assets of the Borrower for each tranche. Six Undated Cheques and NACH Mandate.  
+
+Financial Covenants: Six months average monthly cash burn to be maintained in Cash and Cash Equivalents. Debt to Net Worth of 1x.  
+
+Other Conditions: Right to Invest - Subject to Board approval, Investor shall have the right but not an obligation to subscribe to equity of the company up to INR 20 crore or 60 percent of Total Investment Amount invested by Lender, whichever is lower, in any future round of equity investment on the same terms as other participating investors. The right can be exercised within 36 months from the date of first disbursement.  
+
+Brief monthly MIS in the format mutually agreed upon by both parties by the 25th day of the following month. Detailed quarterly MIS by the 25th day of the following month. Audited financial statements within 180 days of end of financial year. Annual business plan including quarterly budget containing an income statement, a statement of cash flow, no later than 15 days of the end of each fiscal year for the following fiscal year.  
+
+Company to share all notices, board minutes, and other necessary board meeting material to Stride Ventures within 7 days from such board meeting.  
+
+Partly Paid CCPS Valuation: Investor shall be entitled to subscribe to partly paid-up shares to the extent of 7 percent of the Investment Amount, which when exercised at any time during the Exercise Period, five years from the Maturity date of the last tranche or end of the fund life, whichever is later, shall convert into equivalent equity shares of the Borrower at par to the per share price of Series B that is 20 percent discount to Series C.  
+
+Promoters and Cap Table: Shareholding Pattern of Terrals Technologies Pvt. Ltd Pre-Series B. Founders and Promoters include Sumit Sinha and Mukesh Bansal. Institutions include Kalaari Capital, Omron, SOSV, Omphalos Ventures, Betatron, Fresco Capital, IPV, Social Starts, LetsVenture, and Enterprise. Manipal Hospitals holds a significant share. ESOPs and Other investors make up the remainder.  
+
+Background of the Founders: Sumit Sinha, Co-Founder and CEO, has over 14 years of professional experience. He has worked at Kristys Kitchen, Borderless Access Panels Pvt Ltd., Deloitte Consulting, Evalueserve, and ICICI. His educational background includes a B.Tech. in Computer Science. Mukesh Bansal, Co-Founder, has over 15 years of professional experience in Borderless Access Panels Pvt Ltd. and Kantar Operations. He holds an M.Sc. in Mathematics and a B.E. in Civil Engineering from BITS Pilani.  
+
+Organisation Chart: Key Management Personnel include Engineering Managers, Product Heads, Sales Heads, Finance Heads, HR Heads, Business Strategists, and Medical Strategy Managers. Their professional backgrounds include leadership roles at various companies in the industry, and they hold degrees from prestigious institutions like IIMs, IITs, and international business schools.  
+
+Board Composition: The Board of Directors includes Sumit Sinha, Mukesh Kumar Bansal, Mitesh Daga, and William Bao Bean.  
+
+Employee Split: The company has a total of 240 employees distributed across departments including Founders, Finance, Digital, Product, Management Office, Doctor Onboarding Operations, Technology, and Revenue Operations.  
+
+Equity Funding Till Date and Valuation Movement: The company has raised funds in multiple rounds, including Series A and Seed rounds, with increasing post-money valuations. Investors include Kalaari Capital, SOSV, Fresco, Manipal Hospitals, and Omron. The company is raising Series B of 17 million dollars with an expected second closing by January 2022, which may go as high as 40 million dollars cumulatively.  
+
+Key Investors: Kalaari Capital, founded in 2006, is an early-stage technology-focused venture capital firm. It has invested in companies like Dream 11, Cult.Fit, MedPlus, Elastic Run, WinZo, Koo, and others. SOSV, founded in 1995, operates early-stage startup development programs and has invested in several Indian startups. Aflac Ventures, a corporate venture arm of Aflac, invests in healthcare, insurance, and finance startups.  
+
+Strategic Investors: Manipal Hospitals, part of Manipal Education System, has raised funds from NIIF, TPG, Temasek, and other investors. Omron, founded in 1933, is a leader in automation and has invested in Phable.  
+
+Business Profile: Phable, founded in 2017, is a chronic disease management platform that integrates medical devices, insurers, hospitals, doctors, pharmacies, and labs. The platform leverages AI and ML for real-time interventions. The company has raised significant funding and has a growing annualized GMV.  
+
+Problem Statement: India has a high incidence of chronic diseases, with more than 50 percent of deaths attributed to non-communicable diseases. There is a lack of engagement-centric healthcare solutions, limited access to quality healthcare, and high costs due to lack of preventive measures.  
+
+Phable’s Solution: The platform provides a single platform for patients and doctors to manage bookings, consultations, prescriptions, and real-time patient tracking. It integrates transactions, data collection, and data-driven insights to improve healthcare outcomes.  
+
+Revenue Streams: The company generates revenue through medicine sales, device sales, subscriptions, diagnostic labs, doctor consultations, health and wellness products, corporate wellness programs, and consumer insurance.  
+
+GTM Strategy: Phable follows a B2B2C and B2C model for user acquisition. It partners with doctors and clinics to onboard patients and uses digital marketing to acquire users directly.  
+
+Marketing and Discounting Strategy: The company is driving digital adoption through discounts and is transitioning towards a subscription model. It plans an extensive marketing campaign starting January 2022.  
+
+Growth in Users: Phable has seen a steady increase in total users, monthly active users, and transacting users over time. The platform initially engages chronic disease patients for doctor consultations and record-keeping, which eventually drives transactions like medicine purchases, lab bookings, and device orders.  
+
+Low Customer Acquisition Cost Due to Doctor Acquisition Channel: The company acquires patients primarily through doctors, creating a strong network effect. The cost of acquiring doctors and patients has dropped significantly over time while maintaining robust customer retention.  
+
+User Retention: Phable has retained a significant percentage of users acquired through both digital and doctor channels. Users onboarded through doctors show even higher retention due to sustained engagement.  
+
+Doctor Retention and Adoption Metrics: Over the past year, Phable has doubled its doctor base while maintaining a strong proportion of active doctors on the platform. The platform provides tools for managing bookings, teleconsultations, and patient monitoring, ensuring continued usage.  
+
+Doctor Acquisition Strategy: Phable primarily acquires doctors through an on-ground sales team, which accounts for most acquisitions. Digital marketing also plays a role, but feet-on-street remains the dominant approach.  
+
+Revenue Sharing Agreements with Partners: The company has agreements with partners like Pharmeasy, Omron, and Prima Diagnostics. Revenue-sharing terms vary, with commissions on completed orders, subscription margins, and payment cycles specified in agreements.  
+
+Working Capital: Phable maintains minimal working capital. It holds a small inventory of fast-moving healthcare devices and has receivables from commissions, B2B medicine sales, and unbilled revenue. Payables primarily consist of dues to device manufacturers, corporate credit card providers, and diagnostic labs.  
+
+Future Plans: Phable aims to expand its services and partnerships. Plans include offering post-hospitalization care, home healthcare services, and specialized diagnostic testing. The company is also developing corporate health benefit plans, combining insurance and healthcare services.  
+
+Monetization Plans for Doctors: While currently free for doctors, Phable plans to introduce revenue-generating features like procurement of medical consumables, paid advertising for doctors, and premium SaaS tools for analytics and clinic management. The SaaS tool is already piloted across Fortis hospitals in South India.  
+
+Strategic Partnerships and Acquisitions: Phable is collaborating with device manufacturers like Omron to bundle its subscription services with device purchases. The company also plans strategic acquisitions in chronic care management, health benefits platforms, financial planning for medical expenses, and electronic medical record solutions.  
+
+Unit Economics: The company's revenue is derived from multiple streams, with device sales, medicine sales, doctor consultations, diagnostic labs, and health and wellness products contributing to the overall revenue. The company has operational costs that are semi-variable, such as salaries for operations teams.  
+
+Industry Overview: Chronic diseases are a major healthcare challenge, accounting for a significant proportion of deaths worldwide. In India, millions suffer from conditions like hypertension and diabetes, leading to high healthcare expenditures.  
+
+Challenges in Chronic Disease Management: Limited awareness about early symptoms leads to low diagnosis rates. Healthcare affordability is a major barrier, with insurance coverage being low and out-of-pocket expenses high. Patients also face challenges in accessing timely medical care due to constraints like time, distance, and lack of integrated platforms.  
+
+Growth of eHealthcare in India: The eHealth market in India is expanding rapidly, covering telemedicine, epharmacy, and online fitness and wellness services. Telemedicine is the largest segment and is expected to continue growing, while epharmacy adoption is increasing due to better accessibility and affordability.  
+
+Government Initiatives and Policy Support: The Indian government is actively promoting digital healthcare solutions. Telemedicine guidelines, electronic health record mandates, and national health initiatives are expected to drive further adoption of eHealth services.  
+
+Emerging Trends in eHealth: The industry is seeing increased adoption of AI-powered healthcare solutions, remote healthcare insurance coverage, and integrated platform offerings. Digital transformation in healthcare is enabling better patient care and operational efficiency.  
+
+This concludes the extracted text from the document. Let me know if you need any modifications or further details.
