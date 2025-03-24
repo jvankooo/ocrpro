@@ -1,0 +1,121 @@
+[
+  {
+    "header": null,
+    "content": [
+      {
+        "type": "image",
+        "filename": "image_1.png",
+        "caption": ""
+      },
+      {
+        "type": "image",
+        "filename": "image_2.png",
+        "caption": ""
+      }
+    ]
+  },
+  {
+    "header": "Proposal Summary",
+    "content": [
+      {
+        "type": "text",
+        "data": "Borrower Name: Terrals Technologies Pvt. Ltd."
+      },
+      {
+        "type": "text",
+        "data": "Sector: Chronic Disease Management and Healthcare Services Platform"
+      },
+      {
+        "type": "text",
+        "data": "Proposed Amount: Up to INR 45,00,000,000"
+      },
+      {
+        "type": "text",
+        "data": "Tranche 1: INR 10,00,00,000"
+      },
+      {
+        "type": "text",
+        "data": "Tranche 2: Up to 15% of the equity raise (Series B) with an overall cap of INR 35Cr"
+      },
+      {
+        "type": "text",
+        "data": "Tenor: 18 months from the date of disbursement of each tranche"
+      },
+      {
+        "type": "text",
+        "data": "Debt XIRR: 16.56%; Warrants: 7%; XIRR with warrant upside: 31.2%"
+      }
+    ]
+  },
+  {
+    "header": "Repayment Schedule:",
+    "content": [
+      {
+        "type": "text",
+        "data": "Quarterly Amortization (5 instalments); Moratorium for three months i.e., first principal instalment at the end of 6 months. The coupons are to be serviced monthly on the last day of each month."
+      }
+    ]
+  },
+  {
+    "header": "Filtering Criteria:",
+    "content": [
+      {
+        "type": "text",
+        "data": "*Assumed only $17M Series B takes place."
+      },
+      {
+        "type": "text",
+        "data": "Notes: (1) The company is raising Series B of $17 Mn (INR 128 Cr) with equity infusion expected in Dec'21. Second closing of this round is expected by the end of January 2022 & may go as high as $40 Mn cumulatively."
+      },
+      {
+        "type": "list",
+        "data": [
+          "(2) The company is raising significant debt and equity to finance strategic acquisitions.",
+          "(3) The current Series B round will be a convertible round valued at 20% discount to series C (expected to close Q1 FY23)"
+        ]
+      },
+      {
+        "type": "text",
+        "data": "Cash Margin: 7.5% of Investment Amount"
+      }
+    ]
+  },
+  {
+    "header": "Security:",
+    "content": [
+      {
+        "type": "list",
+        "data": [
+          "\u25ba First charge and hypothecation on all existing and future fixed, current and intangible assets of the Borrower for each tranche.",
+          "\u25ba 6 Undated Cheques & NACH Mandate."
+        ]
+      }
+    ]
+  },
+  {
+    "header": "Financial Covenants:",
+    "content": [
+      {
+        "type": "list",
+        "data": [
+          "\u25ba 6 months average monthly cash burn to be maintained in Cash & Cash Equivalents",
+          "\u25ba Debt/Net Worth of 1x."
+        ]
+      }
+    ]
+  },
+  {
+    "header": "Other Conditions:",
+    "content": [
+      {
+        "type": "list",
+        "data": [
+          "\u25ba Right to Invest - Subject to Board approval, Investor shall have the right (but not an obligation) to subscribe to equity of the company up to INR 20 crore or 60% of Total Investment Amount invested by Lender, whichever is lower, in any future round of equity investment on the same terms as other participating investors. The right can be exercised within 36 months from the date of first disbursement.",
+          "\u25ba Brief monthly MIS in the format mutually agreed upon by both parties by the 25th day of the following month; Detailed quarterly MIS by the 25th day of the following month.",
+          "\u25ba Audited financial statements within 180 days of end of financial year.",
+          "\u25ba Annual business plan (including quarterly budget containing an income statement, a statement of cash flow, no later than 15 (fifteen) days of the end of each fiscal year for the following fiscal year;"
+        ]
+      }
+    ]
+  }
+]

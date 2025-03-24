@@ -10,6 +10,10 @@ import io
 import re
 import json
 
+import ssl
+ssl._create_default_https_context = ssl._create_unverified_context
+
+
 class DocExtractor:
     def __init__(self, model_name="ds4sd/SmolDocling-256M-preview", output_dir="SmallDocling_extracted_data"):
         self.processor = AutoProcessor.from_pretrained(model_name)
@@ -57,11 +61,12 @@ class DocExtractor:
             # Generate outputs
             with torch.no_grad():
                 outputs = self.model.generate(
-                    **inputs,
+                    input_ids=inputs.get("input_ids"),
+                    attention_mask=inputs.get("attention_mask"),
                     max_length=512,
                     num_beams=4
                 )
-            
+
             # Decode generated text
             generated_text = self.processor.decode(outputs[0], skip_special_tokens=True)
             
